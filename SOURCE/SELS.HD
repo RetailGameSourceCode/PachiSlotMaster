@@ -1,0 +1,21 @@
+#ifndef VH_K_SELECT
+#define VH_K_SELECT 0
+#endif
+#ifndef VH_K_SELECT_SIZE
+#define VH_K_SELECT_SIZE 6688
+#endif
+#ifndef VB_K_SELECT
+#define VB_K_SELECT 6688
+#endif
+#ifndef VB_K_SELECT_SIZE
+#define VB_K_SELECT_SIZE 226176
+#endif
+#ifndef SEQ_K_SELECT
+#define SEQ_K_SELECT 232864
+#endif
+#ifndef SEQ_K_SELECT_SIZE
+#define SEQ_K_SELECT_SIZE 6288
+#endif
+#ifndef TOTAL_SELS_TIC
+#define TOTAL_SELS_TIC 239184
+#endif

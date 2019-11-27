@@ -1,0 +1,144 @@
+W3NUM.TIM     pmode:0  cx:[0380]896   cy:[00ff]255   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[03a0]928   py:[00a0]160   pw:13    ph:8   
+
+MR_YAJI.TIM   pmode:0  cx:[0380]896   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0398]920   py:[006c]108   pw:6     ph:16  
+
+YAJILR.TIM    pmode:0  cx:[0380]896   cy:[00fd]253   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0380]896   py:[0000]0     pw:12    ph:16  
+
+BOTAN.TIM     pmode:0  cx:[0370]880   cy:[00fc]252   cw:16    ch:4   
+cursol[x:896  y:256 ]  px:[0370]880   py:[0000]0     pw:4     ph:80  
+
+32_BO.TIM     pmode:0  cx:[0380]896   cy:[00f1]241   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0380]896   py:[003c]60    pw:8     ph:16  
+
+MC_NOT.TIM    pmode:0  cx:[0380]896   cy:[00fc]252   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[038c]908   py:[0000]0     pw:9     ph:20  
+
+MC_WAKU.TIM   pmode:0  cx:[0380]896   cy:[00fc]252   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[03a0]928   py:[005c]92    pw:8     ph:32  
+
+B_R1.TIM      pmode:0  cx:[0360]864   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0374]884   py:[00e0]224   pw:4     ph:16  
+
+B_LLR.TIM     pmode:0  cx:[0360]864   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[00e0]224   pw:4     ph:16  
+
+B_R2.TIM      pmode:0  cx:[0360]864   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0370]880   py:[00e0]224   pw:4     ph:16  
+
+B_LR.TIM      pmode:0  cx:[0360]864   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0344]836   py:[00e0]224   pw:4     ph:16  
+
+B_L2.TIM      pmode:0  cx:[0360]864   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0368]872   py:[00e0]224   pw:4     ph:16  
+
+B_RR.TIM      pmode:0  cx:[0360]864   cy:[00fb]251   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[035c]860   py:[00e0]224   pw:4     ph:16  
+
+B_RU.TIM      pmode:0  cx:[0360]864   cy:[00fa]250   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0358]856   py:[00e0]224   pw:4     ph:16  
+
+B_RL.TIM      pmode:0  cx:[0360]864   cy:[00fd]253   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0364]868   py:[00e0]224   pw:4     ph:16  
+
+B_LU.TIM      pmode:0  cx:[0360]864   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[00e0]224   pw:4     ph:16  
+
+BB32NANA.TIM  pmode:0  cx:[0380]896   cy:[00f2]242   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0388]904   py:[003c]60    pw:8     ph:16  
+
+KR_BIG.TIM    pmode:0  cx:[0340]832   cy:[00f7]247   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0000]0     pw:20    ph:24  
+
+KR_REG.TIM    pmode:0  cx:[0340]832   cy:[00f8]248   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0018]24    pw:20    ph:24  
+
+KR_BI0.TIM    pmode:0  cx:[0340]832   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0030]48    pw:20    ph:24  
+
+KR_BI1.TIM    pmode:0  cx:[0340]832   cy:[00fa]250   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0048]72    pw:20    ph:24  
+
+KR_BI2.TIM    pmode:0  cx:[0340]832   cy:[00fb]251   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0060]96    pw:20    ph:24  
+
+KR_REP.TIM    pmode:0  cx:[0340]832   cy:[00fc]252   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0078]120   pw:20    ph:24  
+
+BR_REG.TIM    pmode:0  cx:[0350]848   cy:[00f8]248   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0018]24    pw:20    ph:24  
+
+B_OR.TIM      pmode:0  cx:[0360]864   cy:[00ff]255   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0378]888   py:[00e0]224   pw:4     ph:16  
+
+KR_JIN.TIM    pmode:0  cx:[0340]832   cy:[00fd]253   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[0090]144   pw:20    ph:24  
+
+BR_BI0.TIM    pmode:0  cx:[0350]848   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0030]48    pw:20    ph:24  
+
+BR_BI1.TIM    pmode:0  cx:[0350]848   cy:[00fa]250   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0048]72    pw:20    ph:24  
+
+KR_JAC.TIM    pmode:0  cx:[0340]832   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[00a8]168   pw:20    ph:24  
+
+KR_HAZ.TIM    pmode:0  cx:[0340]832   cy:[00ff]255   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0340]832   py:[00c0]192   pw:20    ph:24  
+
+BR_BIG.TIM    pmode:0  cx:[0350]848   cy:[00f7]247   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0000]0     pw:20    ph:24  
+
+BR_BI2.TIM    pmode:0  cx:[0350]848   cy:[00fb]251   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0060]96    pw:20    ph:24  
+
+BR_REP.TIM    pmode:0  cx:[0350]848   cy:[00fc]252   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0078]120   pw:20    ph:24  
+
+BR_JIN.TIM    pmode:0  cx:[0350]848   cy:[00fd]253   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[0090]144   pw:20    ph:24  
+
+BR_JAC.TIM    pmode:0  cx:[0350]848   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[00a8]168   pw:20    ph:24  
+
+BR_HAZ.TIM    pmode:0  cx:[0350]848   cy:[00ff]255   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0354]852   py:[00c0]192   pw:20    ph:24  
+
+B_L1.TIM      pmode:0  cx:[0360]864   cy:[00fe]254   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[036c]876   py:[00e0]224   pw:4     ph:16  
+
+B_PLUS.TIM    pmode:0  cx:[0360]864   cy:[00ff]255   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[037c]892   py:[00e0]224   pw:4     ph:16  
+
+BB32FUKU.TIM  pmode:0  cx:[0380]896   cy:[00f3]243   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0390]912   py:[003c]60    pw:8     ph:16  
+
+BB32BINB.TIM  pmode:0  cx:[0380]896   cy:[00f4]244   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0398]920   py:[003c]60    pw:8     ph:16  
+
+BB32KODU.TIM  pmode:0  cx:[0380]896   cy:[00f5]245   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0380]896   py:[004c]76    pw:8     ph:16  
+
+BB32YAMA.TIM  pmode:0  cx:[0380]896   cy:[00f6]246   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0388]904   py:[004c]76    pw:8     ph:16  
+
+BB32CHER.TIM  pmode:0  cx:[0380]896   cy:[00f7]247   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0390]912   py:[004c]76    pw:8     ph:16  
+
+BB32SUZU.TIM  pmode:0  cx:[0380]896   cy:[00f8]248   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0398]920   py:[004c]76    pw:8     ph:16  
+
+B_LUD.TIM     pmode:0  cx:[0360]864   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0350]848   py:[00e0]224   pw:4     ph:16  
+
+B_LL.TIM      pmode:0  cx:[0360]864   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[034c]844   py:[00e0]224   pw:4     ph:16  
+
+B_LD.TIM      pmode:0  cx:[0360]864   cy:[00f9]249   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0348]840   py:[00e0]224   pw:4     ph:16  
+
+B_RD.TIM      pmode:0  cx:[0360]864   cy:[00fc]252   cw:16    ch:1   
+cursol[x:896  y:256 ]  px:[0360]864   py:[00e0]224   pw:4     ph:16  
+

@@ -1,0 +1,309 @@
+#ifndef PXL_BKM_COL1
+#define PXL_BKM_COL1 0
+#endif
+#ifndef PXL_BKM_COL1_SIZE
+#define PXL_BKM_COL1_SIZE 300
+#endif
+#ifndef PXL_BKM_COL2
+#define PXL_BKM_COL2 300
+#endif
+#ifndef PXL_BKM_COL2_SIZE
+#define PXL_BKM_COL2_SIZE 300
+#endif
+#ifndef PXL_BKM_COL3
+#define PXL_BKM_COL3 600
+#endif
+#ifndef PXL_BKM_COL3_SIZE
+#define PXL_BKM_COL3_SIZE 300
+#endif
+#ifndef PXL_BKM_COR0
+#define PXL_BKM_COR0 900
+#endif
+#ifndef PXL_BKM_COR0_SIZE
+#define PXL_BKM_COR0_SIZE 300
+#endif
+#ifndef PXL_BKM_COR1
+#define PXL_BKM_COR1 1200
+#endif
+#ifndef PXL_BKM_COR1_SIZE
+#define PXL_BKM_COR1_SIZE 300
+#endif
+#ifndef PXL_BKM_COR2
+#define PXL_BKM_COR2 1500
+#endif
+#ifndef PXL_BKM_COR2_SIZE
+#define PXL_BKM_COR2_SIZE 300
+#endif
+#ifndef PXL_BKM_COR3
+#define PXL_BKM_COR3 1800
+#endif
+#ifndef PXL_BKM_COR3_SIZE
+#define PXL_BKM_COR3_SIZE 340
+#endif
+#ifndef PXL_BKM_COR4
+#define PXL_BKM_COR4 2140
+#endif
+#ifndef PXL_BKM_COR4_SIZE
+#define PXL_BKM_COR4_SIZE 300
+#endif
+#ifndef PXL_BKM_COR5
+#define PXL_BKM_COR5 2440
+#endif
+#ifndef PXL_BKM_COR5_SIZE
+#define PXL_BKM_COR5_SIZE 300
+#endif
+#ifndef PXL_BKM_COR6
+#define PXL_BKM_COR6 2740
+#endif
+#ifndef PXL_BKM_COR6_SIZE
+#define PXL_BKM_COR6_SIZE 300
+#endif
+#ifndef PXL_BKM_COR7
+#define PXL_BKM_COR7 3040
+#endif
+#ifndef PXL_BKM_COR7_SIZE
+#define PXL_BKM_COR7_SIZE 300
+#endif
+#ifndef PXL_BKM_COR8
+#define PXL_BKM_COR8 3340
+#endif
+#ifndef PXL_BKM_COR8_SIZE
+#define PXL_BKM_COR8_SIZE 300
+#endif
+#ifndef PXL_BKM_COR9
+#define PXL_BKM_COR9 3640
+#endif
+#ifndef PXL_BKM_COR9_SIZE
+#define PXL_BKM_COR9_SIZE 300
+#endif
+#ifndef PXL_BKM_CRL0
+#define PXL_BKM_CRL0 3940
+#endif
+#ifndef PXL_BKM_CRL0_SIZE
+#define PXL_BKM_CRL0_SIZE 340
+#endif
+#ifndef PXL_BKM_CRL1
+#define PXL_BKM_CRL1 4280
+#endif
+#ifndef PXL_BKM_CRL1_SIZE
+#define PXL_BKM_CRL1_SIZE 340
+#endif
+#ifndef PXL_BKM_CRL2
+#define PXL_BKM_CRL2 4620
+#endif
+#ifndef PXL_BKM_CRL2_SIZE
+#define PXL_BKM_CRL2_SIZE 340
+#endif
+#ifndef PXL_BKM_CRL3
+#define PXL_BKM_CRL3 4960
+#endif
+#ifndef PXL_BKM_CRL3_SIZE
+#define PXL_BKM_CRL3_SIZE 340
+#endif
+#ifndef PXL_BKM_CRL4
+#define PXL_BKM_CRL4 5300
+#endif
+#ifndef PXL_BKM_CRL4_SIZE
+#define PXL_BKM_CRL4_SIZE 340
+#endif
+#ifndef PXL_BKM_CRL5
+#define PXL_BKM_CRL5 5640
+#endif
+#ifndef PXL_BKM_CRL5_SIZE
+#define PXL_BKM_CRL5_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR0
+#define PXL_BKM_CRR0 5980
+#endif
+#ifndef PXL_BKM_CRR0_SIZE
+#define PXL_BKM_CRR0_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR1
+#define PXL_BKM_CRR1 6320
+#endif
+#ifndef PXL_BKM_CRR1_SIZE
+#define PXL_BKM_CRR1_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR2
+#define PXL_BKM_CRR2 6660
+#endif
+#ifndef PXL_BKM_CRR2_SIZE
+#define PXL_BKM_CRR2_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR3
+#define PXL_BKM_CRR3 7000
+#endif
+#ifndef PXL_BKM_CRR3_SIZE
+#define PXL_BKM_CRR3_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR4
+#define PXL_BKM_CRR4 7340
+#endif
+#ifndef PXL_BKM_CRR4_SIZE
+#define PXL_BKM_CRR4_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR5
+#define PXL_BKM_CRR5 7680
+#endif
+#ifndef PXL_BKM_CRR5_SIZE
+#define PXL_BKM_CRR5_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR6
+#define PXL_BKM_CRR6 8020
+#endif
+#ifndef PXL_BKM_CRR6_SIZE
+#define PXL_BKM_CRR6_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR7
+#define PXL_BKM_CRR7 8360
+#endif
+#ifndef PXL_BKM_CRR7_SIZE
+#define PXL_BKM_CRR7_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR8
+#define PXL_BKM_CRR8 8700
+#endif
+#ifndef PXL_BKM_CRR8_SIZE
+#define PXL_BKM_CRR8_SIZE 340
+#endif
+#ifndef PXL_BKM_CRR9
+#define PXL_BKM_CRR9 9040
+#endif
+#ifndef PXL_BKM_CRR9_SIZE
+#define PXL_BKM_CRR9_SIZE 340
+#endif
+#ifndef PXL_BKM_GME1
+#define PXL_BKM_GME1 9380
+#endif
+#ifndef PXL_BKM_GME1_SIZE
+#define PXL_BKM_GME1_SIZE 188
+#endif
+#ifndef PXL_BKM_GME2
+#define PXL_BKM_GME2 9568
+#endif
+#ifndef PXL_BKM_GME2_SIZE
+#define PXL_BKM_GME2_SIZE 188
+#endif
+#ifndef PXL_BKM_GME3
+#define PXL_BKM_GME3 9756
+#endif
+#ifndef PXL_BKM_GME3_SIZE
+#define PXL_BKM_GME3_SIZE 188
+#endif
+#ifndef PXL_BKM_GME4
+#define PXL_BKM_GME4 9944
+#endif
+#ifndef PXL_BKM_GME4_SIZE
+#define PXL_BKM_GME4_SIZE 188
+#endif
+#ifndef PXL_BKM_GME5
+#define PXL_BKM_GME5 10132
+#endif
+#ifndef PXL_BKM_GME5_SIZE
+#define PXL_BKM_GME5_SIZE 188
+#endif
+#ifndef PXL_BKM_GME6
+#define PXL_BKM_GME6 10320
+#endif
+#ifndef PXL_BKM_GME6_SIZE
+#define PXL_BKM_GME6_SIZE 188
+#endif
+#ifndef PXL_BKM_WI00
+#define PXL_BKM_WI00 10508
+#endif
+#ifndef PXL_BKM_WI00_SIZE
+#define PXL_BKM_WI00_SIZE 900
+#endif
+#ifndef PXL_BKM_WI01
+#define PXL_BKM_WI01 11408
+#endif
+#ifndef PXL_BKM_WI01_SIZE
+#define PXL_BKM_WI01_SIZE 900
+#endif
+#ifndef PXL_BKM_WI02
+#define PXL_BKM_WI02 12308
+#endif
+#ifndef PXL_BKM_WI02_SIZE
+#define PXL_BKM_WI02_SIZE 900
+#endif
+#ifndef PXL_BKM_WI03
+#define PXL_BKM_WI03 13208
+#endif
+#ifndef PXL_BKM_WI03_SIZE
+#define PXL_BKM_WI03_SIZE 900
+#endif
+#ifndef PXL_BKM_WI04
+#define PXL_BKM_WI04 14108
+#endif
+#ifndef PXL_BKM_WI04_SIZE
+#define PXL_BKM_WI04_SIZE 900
+#endif
+#ifndef PXL_BKM_WI05
+#define PXL_BKM_WI05 15008
+#endif
+#ifndef PXL_BKM_WI05_SIZE
+#define PXL_BKM_WI05_SIZE 900
+#endif
+#ifndef PXL_BKM_WI06
+#define PXL_BKM_WI06 15908
+#endif
+#ifndef PXL_BKM_WI06_SIZE
+#define PXL_BKM_WI06_SIZE 900
+#endif
+#ifndef PXL_BKM_WI07
+#define PXL_BKM_WI07 16808
+#endif
+#ifndef PXL_BKM_WI07_SIZE
+#define PXL_BKM_WI07_SIZE 900
+#endif
+#ifndef PXL_BKM_WI08
+#define PXL_BKM_WI08 17708
+#endif
+#ifndef PXL_BKM_WI08_SIZE
+#define PXL_BKM_WI08_SIZE 900
+#endif
+#ifndef PXL_BKM_WI09
+#define PXL_BKM_WI09 18608
+#endif
+#ifndef PXL_BKM_WI09_SIZE
+#define PXL_BKM_WI09_SIZE 900
+#endif
+#ifndef PXL_BKM_WI10
+#define PXL_BKM_WI10 19508
+#endif
+#ifndef PXL_BKM_WI10_SIZE
+#define PXL_BKM_WI10_SIZE 900
+#endif
+#ifndef PXL_BKM_WI11
+#define PXL_BKM_WI11 20408
+#endif
+#ifndef PXL_BKM_WI11_SIZE
+#define PXL_BKM_WI11_SIZE 900
+#endif
+#ifndef PXL_BKM_WI12
+#define PXL_BKM_WI12 21308
+#endif
+#ifndef PXL_BKM_WI12_SIZE
+#define PXL_BKM_WI12_SIZE 900
+#endif
+#ifndef PXL_BKM_WI13
+#define PXL_BKM_WI13 22208
+#endif
+#ifndef PXL_BKM_WI13_SIZE
+#define PXL_BKM_WI13_SIZE 900
+#endif
+#ifndef PXL_BKM_WI14
+#define PXL_BKM_WI14 23108
+#endif
+#ifndef PXL_BKM_WI14_SIZE
+#define PXL_BKM_WI14_SIZE 900
+#endif
+#ifndef PXL_BKM_WI15
+#define PXL_BKM_WI15 24008
+#endif
+#ifndef PXL_BKM_WI15_SIZE
+#define PXL_BKM_WI15_SIZE 900
+#endif
+#ifndef TOTAL_DIG_M_TIC
+#define TOTAL_DIG_M_TIC 24940
+#endif

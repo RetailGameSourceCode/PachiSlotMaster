@@ -1,0 +1,122 @@
+del *.pxl
+del *.clt
+
+call timed KPS_COL1.TIM 832 288 576 500
+call timed KPS_COL2.TIM 832 288 576 500
+call timed KPS_COL3.TIM 832 288 576 500
+
+call timed KPS_COR0.TIM 832 304 576 500
+call timed KPS_COR1.TIM 832 304 576 500
+call timed KPS_COR2.TIM 832 304 576 500
+call timed KPS_COR3.TIM 832 304 576 500
+call timed KPS_COR4.TIM 832 304 576 500
+call timed KPS_COR5.TIM 832 304 576 500
+call timed KPS_COR6.TIM 832 304 576 500
+call timed KPS_COR7.TIM 832 304 576 500
+call timed KPS_COR8.TIM 832 304 576 500
+call timed KPS_COR9.TIM 832 304 576 500
+
+call timed KPS_CRL0.TIM 832 272 576 499
+call timed KPS_CRL1.TIM 832 272 576 499
+call timed KPS_CRL2.TIM 832 272 576 499
+call timed KPS_CRL3.TIM 832 272 576 499
+call timed KPS_CRL4.TIM 832 272 576 499
+call timed KPS_CRL5.TIM 832 272 576 499
+
+call timed KPS_CRR0.TIM 832 256 576 499
+call timed KPS_CRR1.TIM 832 256 576 499
+call timed KPS_CRR2.TIM 832 256 576 499
+call timed KPS_CRR3.TIM 832 256 576 499
+call timed KPS_CRR4.TIM 832 256 576 499
+call timed KPS_CRR5.TIM 832 256 576 499
+call timed KPS_CRR6.TIM 832 256 576 499
+call timed KPS_CRR7.TIM 832 256 576 499
+call timed KPS_CRR8.TIM 832 256 576 499
+call timed KPS_CRR9.TIM 832 256 576 499
+
+call timed KPS_GME1.TIM 876 296 576 500
+call timed KPS_GME2.TIM 876 296 576 500
+call timed KPS_GME3.TIM 876 296 576 500
+call timed KPS_GME4.TIM 876 296 576 500
+call timed KPS_GME5.TIM 876 296 576 500
+call timed KPS_GME6.TIM 876 296 576 500
+call timed KPS_GMEB.TIM 876 296 576 500
+
+call timed KPS_WI00.TIM 850 256 576 499
+call timed KPS_WI01.TIM 850 256 576 499
+call timed KPS_WI02.TIM 850 256 576 499
+call timed KPS_WI03.TIM 850 256 576 499
+call timed KPS_WI04.TIM 850 256 576 499
+call timed KPS_WI05.TIM 850 256 576 499
+call timed KPS_WI06.TIM 850 256 576 499
+call timed KPS_WI07.TIM 850 256 576 499
+call timed KPS_WI08.TIM 850 256 576 499
+call timed KPS_WI09.TIM 850 256 576 499
+call timed KPS_WI10.TIM 850 256 576 499
+call timed KPS_WI11.TIM 850 256 576 499
+call timed KPS_WI12.TIM 850 256 576 499
+call timed KPS_WI13.TIM 850 256 576 499
+call timed KPS_WI14.TIM 850 256 576 499
+call timed KPS_WI15.TIM 850 256 576 499
+call timed KPS_WI0P.TIM 832 320 576 499
+
+
+call clc KPS_COL1.TIM
+call clc KPS_COL2.TIM
+call clc KPS_COL3.TIM
+call clc KPS_COR0.TIM
+call clc KPS_COR1.TIM
+call clc KPS_COR2.TIM
+call clc KPS_COR3.TIM
+call clc KPS_COR4.TIM
+call clc KPS_COR5.TIM
+call clc KPS_COR6.TIM
+call clc KPS_COR7.TIM
+call clc KPS_COR8.TIM
+call clc KPS_COR9.TIM
+call clc KPS_CRL0.TIM
+call clc KPS_CRL1.TIM
+call clc KPS_CRL2.TIM
+call clc KPS_CRL3.TIM
+call clc KPS_CRL4.TIM
+call clc KPS_CRL5.TIM
+call clc KPS_CRR0.TIM
+call clc KPS_CRR1.TIM
+call clc KPS_CRR2.TIM
+call clc KPS_CRR3.TIM
+call clc KPS_CRR4.TIM
+call clc KPS_CRR5.TIM
+call clc KPS_CRR6.TIM
+call clc KPS_CRR7.TIM
+call clc KPS_CRR8.TIM
+call clc KPS_CRR9.TIM
+call clc KPS_GME1.TIM
+call clc KPS_GME2.TIM
+call clc KPS_GME3.TIM
+call clc KPS_GME4.TIM
+call clc KPS_GME5.TIM
+call clc KPS_GME6.TIM
+call clc KPS_GMEB.TIM
+call clc KPS_WI00.TIM
+call clc KPS_WI01.TIM
+call clc KPS_WI02.TIM
+call clc KPS_WI03.TIM
+call clc KPS_WI04.TIM
+call clc KPS_WI05.TIM
+call clc KPS_WI06.TIM
+call clc KPS_WI07.TIM
+call clc KPS_WI08.TIM
+call clc KPS_WI09.TIM
+call clc KPS_WI10.TIM
+call clc KPS_WI11.TIM
+call clc KPS_WI12.TIM
+call clc KPS_WI13.TIM
+call clc KPS_WI14.TIM
+call clc KPS_WI15.TIM
+call clc KPS_WI0P.TIM
+
+copy *.pxl ..\pac
+copy KPS_COL1.CLT ..\..\all
+copy KPS_CRL0.CLT ..\..\all
+copy KPS_WI0P.PXL ..\..\all
+

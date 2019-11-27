@@ -1,0 +1,123 @@
+#ifndef TIM_BKM01
+#define TIM_BKM01 0
+#endif
+#ifndef TIM_BKM01_SIZE
+#define TIM_BKM01_SIZE 4640
+#endif
+#ifndef TIM_BKM02
+#define TIM_BKM02 4640
+#endif
+#ifndef TIM_BKM02_SIZE
+#define TIM_BKM02_SIZE 4640
+#endif
+#ifndef TIM_BKM03
+#define TIM_BKM03 9280
+#endif
+#ifndef TIM_BKM03_SIZE
+#define TIM_BKM03_SIZE 4640
+#endif
+#ifndef TIM_BKM04
+#define TIM_BKM04 13920
+#endif
+#ifndef TIM_BKM04_SIZE
+#define TIM_BKM04_SIZE 4640
+#endif
+#ifndef TIM_BKM05
+#define TIM_BKM05 18560
+#endif
+#ifndef TIM_BKM05_SIZE
+#define TIM_BKM05_SIZE 4640
+#endif
+#ifndef TIM_BKM06
+#define TIM_BKM06 23200
+#endif
+#ifndef TIM_BKM06_SIZE
+#define TIM_BKM06_SIZE 4640
+#endif
+#ifndef TIM_BKM07
+#define TIM_BKM07 27840
+#endif
+#ifndef TIM_BKM07_SIZE
+#define TIM_BKM07_SIZE 4640
+#endif
+#ifndef TIM_BKM08
+#define TIM_BKM08 32480
+#endif
+#ifndef TIM_BKM08_SIZE
+#define TIM_BKM08_SIZE 4640
+#endif
+#ifndef TIM_BKM09
+#define TIM_BKM09 37120
+#endif
+#ifndef TIM_BKM09_SIZE
+#define TIM_BKM09_SIZE 4640
+#endif
+#ifndef TIM_BKM10
+#define TIM_BKM10 41760
+#endif
+#ifndef TIM_BKM10_SIZE
+#define TIM_BKM10_SIZE 4640
+#endif
+#ifndef TIM_BKM11
+#define TIM_BKM11 46400
+#endif
+#ifndef TIM_BKM11_SIZE
+#define TIM_BKM11_SIZE 4640
+#endif
+#ifndef TIM_BKM12
+#define TIM_BKM12 51040
+#endif
+#ifndef TIM_BKM12_SIZE
+#define TIM_BKM12_SIZE 4640
+#endif
+#ifndef TIM_BKM13
+#define TIM_BKM13 55680
+#endif
+#ifndef TIM_BKM13_SIZE
+#define TIM_BKM13_SIZE 4640
+#endif
+#ifndef TIM_BKM14
+#define TIM_BKM14 60320
+#endif
+#ifndef TIM_BKM14_SIZE
+#define TIM_BKM14_SIZE 4640
+#endif
+#ifndef TIM_BKM15
+#define TIM_BKM15 64960
+#endif
+#ifndef TIM_BKM15_SIZE
+#define TIM_BKM15_SIZE 4640
+#endif
+#ifndef TIM_BKM16
+#define TIM_BKM16 69600
+#endif
+#ifndef TIM_BKM16_SIZE
+#define TIM_BKM16_SIZE 2592
+#endif
+#ifndef TIM_BKM17
+#define TIM_BKM17 72192
+#endif
+#ifndef TIM_BKM17_SIZE
+#define TIM_BKM17_SIZE 2592
+#endif
+#ifndef TIM_BKM18
+#define TIM_BKM18 74784
+#endif
+#ifndef TIM_BKM18_SIZE
+#define TIM_BKM18_SIZE 2592
+#endif
+#ifndef TIM_BKM19
+#define TIM_BKM19 77376
+#endif
+#ifndef TIM_BKM19_SIZE
+#define TIM_BKM19_SIZE 2592
+#endif
+#ifndef TIM_BKM20
+#define TIM_BKM20 79968
+#endif
+#ifndef TIM_BKM20_SIZE
+#define TIM_BKM20_SIZE 2592
+#endif
+#ifndef TOTAL_DR_B2_TIC
+#define TOTAL_DR_B2_TIC 82592
+#endif

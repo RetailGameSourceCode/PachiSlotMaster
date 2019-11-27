@@ -1,0 +1,33 @@
+#ifndef VB_KAP_SE
+#define VB_KAP_SE 0
+#endif
+#ifndef VB_KAP_SE_SIZE
+#define VB_KAP_SE_SIZE 116976
+#endif
+#ifndef VB_KAPAPA1
+#define VB_KAPAPA1 116976
+#endif
+#ifndef VB_KAPAPA1_SIZE
+#define VB_KAPAPA1_SIZE 209984
+#endif
+#ifndef VH_KAP_SE
+#define VH_KAP_SE 326960
+#endif
+#ifndef VH_KAP_SE_SIZE
+#define VH_KAP_SE_SIZE 6688
+#endif
+#ifndef VH_KAPAPA1
+#define VH_KAPAPA1 333648
+#endif
+#ifndef VH_KAPAPA1_SIZE
+#define VH_KAPAPA1_SIZE 8736
+#endif
+#ifndef TIC_KAPSEQ
+#define TIC_KAPSEQ 342384
+#endif
+#ifndef TIC_KAPSEQ_SIZE
+#define TIC_KAPSEQ_SIZE 10888
+#endif
+#ifndef TOTAL_KAPS_TIC
+#define TOTAL_KAPS_TIC 353304
+#endif

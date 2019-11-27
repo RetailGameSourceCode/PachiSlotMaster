@@ -1,0 +1,67 @@
+
+	org	$80010000			; main load address
+text	group				; main text group
+bss	group	bss				; main data group
+
+;	section	.rdata,text	; main sections
+;	section	.text,text
+;	section	.data,text
+;	section	.sdata,text
+;	section	.sbss,bss
+;	section	.bss,bss
+
+	include	obj\main.obj
+	include	obj\debug.obj
+	include	obj\saveload.obj
+	include	obj\dosfile.obj
+	include	obj\draw.obj
+	include	obj\sprite.obj
+	include	obj\work.obj
+	include	obj\init.obj
+	include	obj\memory.obj
+	include	obj\pad.obj
+	include	obj\file.obj
+	include	obj\func.obj
+	include	obj\cdread.obj
+	include	obj\add.obj
+	include	obj\sound.obj
+	include	obj\kapbin.obj
+	include	obj\dobj.obj
+	include	obj\hard.obj
+	include	obj\game.obj
+	include	obj\gameread.obj
+	include	obj\select.obj
+	include	obj\kkffnt.obj
+	include	obj\title.obj
+	include	obj\window.obj
+	include	obj\submenu.obj
+	include	obj\status.obj
+	include	obj\toggles.obj
+	include	obj\hawk.obj
+	include	obj\unlock.obj
+	include	obj\detect.obj
+	include	obj\cross.obj
+	include	obj\reach.obj
+	include	obj\flash.obj
+	include	obj\stream.obj
+	inclib	"c:\psx\lib\libmath.lib"; all library code will go into main.
+	inclib	"c:\psx\lib\libspu.lib"
+	inclib	"c:\psx\lib\libsnd.lib"
+	inclib	"c:\psx\lib\libsn.lib"
+	inclib	"c:\psx\lib\libetc.lib"
+	inclib	"c:\psx\lib\libcd.lib"
+	inclib	"c:\psx\lib\libgte.lib"
+	inclib	"c:\psx\lib\libgs.lib"
+	inclib	"c:\psx\lib\libgpu.lib"
+	inclib	"c:\psx\lib\libpress.lib"
+	inclib	"c:\psx\lib\libmcrd.lib"
+	inclib	"c:\psx\lib\libcard.lib"
+	inclib	"c:\psx\lib\libc.lib"
+	inclib	"c:\psx\lib\libapi.lib"
+	inclib	"c:\psx\lib\libpad.lib"
+	inclib	"c:\psx\lib\libtap.lib"
+;	inclib	"c:\psx\lib\libmath.lib"
+
+	regs	pc=__SN_ENTRY_POINT	; entry point
+
+

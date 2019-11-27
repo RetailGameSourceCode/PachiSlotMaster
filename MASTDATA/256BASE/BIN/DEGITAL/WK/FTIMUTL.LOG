@@ -1,0 +1,42 @@
+BKS_COL1.TIM  pmode:1  cx:[0240]576   cy:[01f4]500   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0340]832   py:[0120]288   pw:18    ph:15  
+
+BKS_COR0.TIM  pmode:1  cx:[0240]576   cy:[01f4]500   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0340]832   py:[0130]304   pw:18    ph:15  
+
+BKS_CRL0.TIM  pmode:1  cx:[0240]576   cy:[01f3]499   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0340]832   py:[0110]272   pw:18    ph:15  
+
+BKS_CRR0.TIM  pmode:1  cx:[0240]576   cy:[01f3]499   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0340]832   py:[0100]256   pw:18    ph:15  
+
+BKS_GME1.TIM  pmode:1  cx:[0240]576   cy:[01f4]500   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[036c]876   py:[0128]296   pw:5     ph:13  
+
+BKS_WI00.TIM  pmode:1  cx:[0240]576   cy:[01f3]499   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0352]850   py:[0100]256   pw:20    ph:34  
+
+BKM_COL1.TIM  pmode:1  cx:[0240]576   cy:[01f5]501   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0352]850   py:[0132]306   pw:10    ph:14  
+
+BKM_COR0.TIM  pmode:1  cx:[0240]576   cy:[01f5]501   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[035c]860   py:[0132]306   pw:10    ph:14  
+
+BKM_CRL0.TIM  pmode:1  cx:[0240]576   cy:[01f6]502   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[035c]860   py:[0122]290   pw:10    ph:16  
+
+BKM_CRR0.TIM  pmode:1  cx:[0240]576   cy:[01f6]502   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0352]850   py:[0122]290   pw:10    ph:16  
+
+BKM_GME1.TIM  pmode:1  cx:[0240]576   cy:[01f5]501   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0366]870   py:[0128]296   pw:6     ph:14  
+
+BKM_WI00.TIM  pmode:1  cx:[0240]576   cy:[01f6]502   cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0366]870   py:[0100]256   pw:11    ph:40  
+
+BKM_WI0P.TIM  pmode:1  cx:[0000]0     cy:[0000]0     cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0371]881   py:[0100]256   pw:11    ph:40  
+
+BKS_WI0P.TIM  pmode:1  cx:[0000]0     cy:[0000]0     cw:256   ch:1   
+cursol[x:865  y:335 ]  px:[0340]832   py:[0140]320   pw:20    ph:34  
+

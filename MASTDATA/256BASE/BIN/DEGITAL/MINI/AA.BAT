@@ -1,0 +1,122 @@
+del *.pxl
+del *.clt
+
+call timed BKS_COL1.TIM 832 288 576 500
+call timed BKS_COL2.TIM 832 288 576 500
+call timed BKS_COL3.TIM 832 288 576 500
+
+call timed BKS_COR0.TIM 832 304 576 500
+call timed BKS_COR1.TIM 832 304 576 500
+call timed BKS_COR2.TIM 832 304 576 500
+call timed BKS_COR3.TIM 832 304 576 500
+call timed BKS_COR4.TIM 832 304 576 500
+call timed BKS_COR5.TIM 832 304 576 500
+call timed BKS_COR6.TIM 832 304 576 500
+call timed BKS_COR7.TIM 832 304 576 500
+call timed BKS_COR8.TIM 832 304 576 500
+call timed BKS_COR9.TIM 832 304 576 500
+
+call timed BKS_CRL0.TIM 832 272 576 499
+call timed BKS_CRL1.TIM 832 272 576 499
+call timed BKS_CRL2.TIM 832 272 576 499
+call timed BKS_CRL3.TIM 832 272 576 499
+call timed BKS_CRL4.TIM 832 272 576 499
+call timed BKS_CRL5.TIM 832 272 576 499
+
+call timed BKS_CRR0.TIM 832 256 576 499
+call timed BKS_CRR1.TIM 832 256 576 499
+call timed BKS_CRR2.TIM 832 256 576 499
+call timed BKS_CRR3.TIM 832 256 576 499
+call timed BKS_CRR4.TIM 832 256 576 499
+call timed BKS_CRR5.TIM 832 256 576 499
+call timed BKS_CRR6.TIM 832 256 576 499
+call timed BKS_CRR7.TIM 832 256 576 499
+call timed BKS_CRR8.TIM 832 256 576 499
+call timed BKS_CRR9.TIM 832 256 576 499
+
+call timed BKS_GME1.TIM 876 296 576 500
+call timed BKS_GME2.TIM 876 296 576 500
+call timed BKS_GME3.TIM 876 296 576 500
+call timed BKS_GME4.TIM 876 296 576 500
+call timed BKS_GME5.TIM 876 296 576 500
+call timed BKS_GME6.TIM 876 296 576 500
+call timed BKS_GMEB.TIM 876 296 576 500
+
+call timed BKS_WI00.TIM 850 256 576 499
+call timed BKS_WI01.TIM 850 256 576 499
+call timed BKS_WI02.TIM 850 256 576 499
+call timed BKS_WI03.TIM 850 256 576 499
+call timed BKS_WI04.TIM 850 256 576 499
+call timed BKS_WI05.TIM 850 256 576 499
+call timed BKS_WI06.TIM 850 256 576 499
+call timed BKS_WI07.TIM 850 256 576 499
+call timed BKS_WI08.TIM 850 256 576 499
+call timed BKS_WI09.TIM 850 256 576 499
+call timed BKS_WI10.TIM 850 256 576 499
+call timed BKS_WI11.TIM 850 256 576 499
+call timed BKS_WI12.TIM 850 256 576 499
+call timed BKS_WI13.TIM 850 256 576 499
+call timed BKS_WI14.TIM 850 256 576 499
+call timed BKS_WI15.TIM 850 256 576 499
+call timed BKS_WI0P.TIM 832 320 576 499
+
+
+call clc BKS_COL1.TIM
+call clc BKS_COL2.TIM
+call clc BKS_COL3.TIM
+call clc BKS_COR0.TIM
+call clc BKS_COR1.TIM
+call clc BKS_COR2.TIM
+call clc BKS_COR3.TIM
+call clc BKS_COR4.TIM
+call clc BKS_COR5.TIM
+call clc BKS_COR6.TIM
+call clc BKS_COR7.TIM
+call clc BKS_COR8.TIM
+call clc BKS_COR9.TIM
+call clc BKS_CRL0.TIM
+call clc BKS_CRL1.TIM
+call clc BKS_CRL2.TIM
+call clc BKS_CRL3.TIM
+call clc BKS_CRL4.TIM
+call clc BKS_CRL5.TIM
+call clc BKS_CRR0.TIM
+call clc BKS_CRR1.TIM
+call clc BKS_CRR2.TIM
+call clc BKS_CRR3.TIM
+call clc BKS_CRR4.TIM
+call clc BKS_CRR5.TIM
+call clc BKS_CRR6.TIM
+call clc BKS_CRR7.TIM
+call clc BKS_CRR8.TIM
+call clc BKS_CRR9.TIM
+call clc BKS_GME1.TIM
+call clc BKS_GME2.TIM
+call clc BKS_GME3.TIM
+call clc BKS_GME4.TIM
+call clc BKS_GME5.TIM
+call clc BKS_GME6.TIM
+call clc BKS_GMEB.TIM
+call clc BKS_WI00.TIM
+call clc BKS_WI01.TIM
+call clc BKS_WI02.TIM
+call clc BKS_WI03.TIM
+call clc BKS_WI04.TIM
+call clc BKS_WI05.TIM
+call clc BKS_WI06.TIM
+call clc BKS_WI07.TIM
+call clc BKS_WI08.TIM
+call clc BKS_WI09.TIM
+call clc BKS_WI10.TIM
+call clc BKS_WI11.TIM
+call clc BKS_WI12.TIM
+call clc BKS_WI13.TIM
+call clc BKS_WI14.TIM
+call clc BKS_WI15.TIM
+call clc BKS_WI0P.TIM
+
+copy *.pxl ..\pac
+copy BKS_COL1.CLT ..\..\all
+copy BKS_CRL0.CLT ..\..\all
+copy BKS_WI0P.PXL ..\..\all
+

@@ -1,0 +1,42 @@
+call timed KM.TIM		704 432   0 510
+call timed KP.TIM		640 432   0 508
+call timed KM_D.TIM		704 256   0 509
+call timed KP_D.TIM		640 256   0 507
+call timed YAJI6.TIM	832 256   0 483
+call timed KMKP.TIM		576   0   0 511
+call timed SESTR.TIM	768 256   0 492
+call timed BGMSTR.TIM	796 256   0 492
+call timed MOJI01.TIM	676  16   0 492
+call timed MOJI02.TIM	668 144   0 492
+call timed MOJI03.TIM	640   0   0 492
+call timed MOJI04.TIM	676  32   0 492
+call timed MOJI05.TIM	960 192 960 248
+call timed MOJI06.TIM	668   0   0 492
+call timed MOJI07.TIM	676   0   0 492
+call timed MOJI08.TIM	640 128   0 492
+call timed MOJI09.TIM	768 400   0 492
+call timed MOJI_WU.TIM	640 176   0 492
+call timed W_ST.TIM		850 256   0 481
+call timed W_UE.TIM		844 256   0 480
+call timed YAJI_Y.TIM	862 272   0 482
+call timed YUBI.TIM		856 256   0 484
+call timed YAJI_T.TIM	844 280   0 482
+call timed BOTAN.TIM	840 256   0 488
+call timed KUMO01.TIM	548   0   0 485
+call timed KUMO02.TIM	512   0   0 485
+call timed KUMO03.TIM	512  98   0 485
+call timed KUMO04.TIM	530  98   0 485
+call timed KUMO05.TIM	546  98   0 485
+
+call timed TITLE.TIM	512	256	  0	505
+call timed PUSH.TIM		768	464	  0	498
+
+call timed	TM.TIM		640	496	0	486
+call timed	MOJI16.TIM	548	56	0	492
+call timed	MOJI18.TIM	576	200	0	492
+
+
+combine aa SELS.TIC
+copy SELS.TIC ..\first
+copy SELS.TIC ..\..\data\select\SELS.TIM
+

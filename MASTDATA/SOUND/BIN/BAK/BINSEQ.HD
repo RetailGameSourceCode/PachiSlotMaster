@@ -1,0 +1,45 @@
+#ifndef SEQ_BINBIN1
+#define SEQ_BINBIN1 0
+#endif
+#ifndef SEQ_BINBIN1_SIZE
+#define SEQ_BINBIN1_SIZE 1092
+#endif
+#ifndef SEQ_BINBIN2
+#define SEQ_BINBIN2 1092
+#endif
+#ifndef SEQ_BINBIN2_SIZE
+#define SEQ_BINBIN2_SIZE 744
+#endif
+#ifndef SEQ_BINBIN3
+#define SEQ_BINBIN3 1836
+#endif
+#ifndef SEQ_BINBIN3_SIZE
+#define SEQ_BINBIN3_SIZE 2208
+#endif
+#ifndef SEQ_BINBIN4
+#define SEQ_BINBIN4 4044
+#endif
+#ifndef SEQ_BINBIN4_SIZE
+#define SEQ_BINBIN4_SIZE 3100
+#endif
+#ifndef SEQ_BINBIN5
+#define SEQ_BINBIN5 7144
+#endif
+#ifndef SEQ_BINBIN5_SIZE
+#define SEQ_BINBIN5_SIZE 2164
+#endif
+#ifndef SEQ_BINBIN6
+#define SEQ_BINBIN6 9308
+#endif
+#ifndef SEQ_BINBIN6_SIZE
+#define SEQ_BINBIN6_SIZE 2568
+#endif
+#ifndef SEQ_BINBIN7
+#define SEQ_BINBIN7 11876
+#endif
+#ifndef SEQ_BINBIN7_SIZE
+#define SEQ_BINBIN7_SIZE 680
+#endif
+#ifndef TOTAL_BINSEQ_TIC
+#define TOTAL_BINSEQ_TIC 12588
+#endif

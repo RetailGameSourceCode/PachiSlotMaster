@@ -1,0 +1,2 @@
+call aa.bat text
+

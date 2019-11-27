@@ -1,0 +1,603 @@
+#ifndef TIM_YAJI_Y
+#define TIM_YAJI_Y 0
+#endif
+#ifndef TIM_YAJI_Y_SIZE
+#define TIM_YAJI_Y_SIZE 192
+#endif
+#ifndef TIM_YUBI
+#define TIM_YUBI 192
+#endif
+#ifndef TIM_YUBI_SIZE
+#define TIM_YUBI_SIZE 352
+#endif
+#ifndef TIM_ONOFF
+#define TIM_ONOFF 544
+#endif
+#ifndef TIM_ONOFF_SIZE
+#define TIM_ONOFF_SIZE 704
+#endif
+#ifndef TIM_YAJI_R
+#define TIM_YAJI_R 1248
+#endif
+#ifndef TIM_YAJI_R_SIZE
+#define TIM_YAJI_R_SIZE 832
+#endif
+#ifndef TIM_MR_ICI
+#define TIM_MR_ICI 2080
+#endif
+#ifndef TIM_MR_ICI_SIZE
+#define TIM_MR_ICI_SIZE 256
+#endif
+#ifndef TIM_TU-KA
+#define TIM_TU-KA 2336
+#endif
+#ifndef TIM_TU-KA_SIZE
+#define TIM_TU-KA_SIZE 576
+#endif
+#ifndef TIM_YUBI02
+#define TIM_YUBI02 2912
+#endif
+#ifndef TIM_YUBI02_SIZE
+#define TIM_YUBI02_SIZE 1216
+#endif
+#ifndef TIM_32_BO
+#define TIM_32_BO 4128
+#endif
+#ifndef TIM_32_BO_SIZE
+#define TIM_32_BO_SIZE 320
+#endif
+#ifndef TIM_MC_TOTL
+#define TIM_MC_TOTL 4448
+#endif
+#ifndef TIM_MC_TOTL_SIZE
+#define TIM_MC_TOTL_SIZE 448
+#endif
+#ifndef TIM_MC_KAPP
+#define TIM_MC_KAPP 4896
+#endif
+#ifndef TIM_MC_KAPP_SIZE
+#define TIM_MC_KAPP_SIZE 448
+#endif
+#ifndef TIM_MC_KAMI
+#define TIM_MC_KAMI 5344
+#endif
+#ifndef TIM_MC_KAMI_SIZE
+#define TIM_MC_KAMI_SIZE 448
+#endif
+#ifndef TIM_MC_NOT
+#define TIM_MC_NOT 5792
+#endif
+#ifndef TIM_MC_NOT_SIZE
+#define TIM_MC_NOT_SIZE 464
+#endif
+#ifndef TIM_BB32NANA
+#define TIM_BB32NANA 6256
+#endif
+#ifndef TIM_BB32NANA_SIZE
+#define TIM_BB32NANA_SIZE 320
+#endif
+#ifndef TIM_BB32FUKU
+#define TIM_BB32FUKU 6576
+#endif
+#ifndef TIM_BB32FUKU_SIZE
+#define TIM_BB32FUKU_SIZE 320
+#endif
+#ifndef TIM_BB32BINB
+#define TIM_BB32BINB 6896
+#endif
+#ifndef TIM_BB32BINB_SIZE
+#define TIM_BB32BINB_SIZE 320
+#endif
+#ifndef TIM_BB32KODU
+#define TIM_BB32KODU 7216
+#endif
+#ifndef TIM_BB32KODU_SIZE
+#define TIM_BB32KODU_SIZE 320
+#endif
+#ifndef TIM_BB32YAMA
+#define TIM_BB32YAMA 7536
+#endif
+#ifndef TIM_BB32YAMA_SIZE
+#define TIM_BB32YAMA_SIZE 320
+#endif
+#ifndef TIM_BB32CHER
+#define TIM_BB32CHER 7856
+#endif
+#ifndef TIM_BB32CHER_SIZE
+#define TIM_BB32CHER_SIZE 320
+#endif
+#ifndef TIM_BB32SUZU
+#define TIM_BB32SUZU 8176
+#endif
+#ifndef TIM_BB32SUZU_SIZE
+#define TIM_BB32SUZU_SIZE 320
+#endif
+#ifndef TIM_KP32NANA
+#define TIM_KP32NANA 8496
+#endif
+#ifndef TIM_KP32NANA_SIZE
+#define TIM_KP32NANA_SIZE 320
+#endif
+#ifndef TIM_KP32KAPP
+#define TIM_KP32KAPP 8816
+#endif
+#ifndef TIM_KP32KAPP_SIZE
+#define TIM_KP32KAPP_SIZE 320
+#endif
+#ifndef TIM_KP32COUP
+#define TIM_KP32COUP 9136
+#endif
+#ifndef TIM_KP32COUP_SIZE
+#define TIM_KP32COUP_SIZE 320
+#endif
+#ifndef TIM_KP32SAKE
+#define TIM_KP32SAKE 9456
+#endif
+#ifndef TIM_KP32SAKE_SIZE
+#define TIM_KP32SAKE_SIZE 320
+#endif
+#ifndef TIM_KP32KYUR
+#define TIM_KP32KYUR 9776
+#endif
+#ifndef TIM_KP32KYUR_SIZE
+#define TIM_KP32KYUR_SIZE 320
+#endif
+#ifndef TIM_KP32HYOU
+#define TIM_KP32HYOU 10096
+#endif
+#ifndef TIM_KP32HYOU_SIZE
+#define TIM_KP32HYOU_SIZE 320
+#endif
+#ifndef TIM_KP32TUKI
+#define TIM_KP32TUKI 10416
+#endif
+#ifndef TIM_KP32TUKI_SIZE
+#define TIM_KP32TUKI_SIZE 320
+#endif
+#ifndef TIM_MOJI10
+#define TIM_MOJI10 10736
+#endif
+#ifndef TIM_MOJI10_SIZE
+#define TIM_MOJI10_SIZE 1184
+#endif
+#ifndef TIM_MOJI11
+#define TIM_MOJI11 11920
+#endif
+#ifndef TIM_MOJI11_SIZE
+#define TIM_MOJI11_SIZE 320
+#endif
+#ifndef TIM_MOJI13
+#define TIM_MOJI13 12240
+#endif
+#ifndef TIM_MOJI13_SIZE
+#define TIM_MOJI13_SIZE 3648
+#endif
+#ifndef TIM_MOJI17
+#define TIM_MOJI17 15888
+#endif
+#ifndef TIM_MOJI17_SIZE
+#define TIM_MOJI17_SIZE 736
+#endif
+#ifndef TIM_R_LAMP
+#define TIM_R_LAMP 16624
+#endif
+#ifndef TIM_R_LAMP_SIZE
+#define TIM_R_LAMP_SIZE 928
+#endif
+#ifndef TIM_KR_BIG
+#define TIM_KR_BIG 17552
+#endif
+#ifndef TIM_KR_BIG_SIZE
+#define TIM_KR_BIG_SIZE 1024
+#endif
+#ifndef TIM_KR_REG
+#define TIM_KR_REG 18576
+#endif
+#ifndef TIM_KR_REG_SIZE
+#define TIM_KR_REG_SIZE 1024
+#endif
+#ifndef TIM_KR_BI0
+#define TIM_KR_BI0 19600
+#endif
+#ifndef TIM_KR_BI0_SIZE
+#define TIM_KR_BI0_SIZE 1024
+#endif
+#ifndef TIM_KR_BI1
+#define TIM_KR_BI1 20624
+#endif
+#ifndef TIM_KR_BI1_SIZE
+#define TIM_KR_BI1_SIZE 1024
+#endif
+#ifndef TIM_KR_BI2
+#define TIM_KR_BI2 21648
+#endif
+#ifndef TIM_KR_BI2_SIZE
+#define TIM_KR_BI2_SIZE 1024
+#endif
+#ifndef TIM_KR_REP
+#define TIM_KR_REP 22672
+#endif
+#ifndef TIM_KR_REP_SIZE
+#define TIM_KR_REP_SIZE 1024
+#endif
+#ifndef TIM_KR_JIN
+#define TIM_KR_JIN 23696
+#endif
+#ifndef TIM_KR_JIN_SIZE
+#define TIM_KR_JIN_SIZE 1024
+#endif
+#ifndef TIM_KR_JAC
+#define TIM_KR_JAC 24720
+#endif
+#ifndef TIM_KR_JAC_SIZE
+#define TIM_KR_JAC_SIZE 1024
+#endif
+#ifndef TIM_KR_HAZ
+#define TIM_KR_HAZ 25744
+#endif
+#ifndef TIM_KR_HAZ_SIZE
+#define TIM_KR_HAZ_SIZE 1184
+#endif
+#ifndef TIM_BR_BIG
+#define TIM_BR_BIG 26928
+#endif
+#ifndef TIM_BR_BIG_SIZE
+#define TIM_BR_BIG_SIZE 1024
+#endif
+#ifndef TIM_BR_REG
+#define TIM_BR_REG 27952
+#endif
+#ifndef TIM_BR_REG_SIZE
+#define TIM_BR_REG_SIZE 1024
+#endif
+#ifndef TIM_BR_BI0
+#define TIM_BR_BI0 28976
+#endif
+#ifndef TIM_BR_BI0_SIZE
+#define TIM_BR_BI0_SIZE 1024
+#endif
+#ifndef TIM_BR_BI1
+#define TIM_BR_BI1 30000
+#endif
+#ifndef TIM_BR_BI1_SIZE
+#define TIM_BR_BI1_SIZE 1024
+#endif
+#ifndef TIM_BR_BI2
+#define TIM_BR_BI2 31024
+#endif
+#ifndef TIM_BR_BI2_SIZE
+#define TIM_BR_BI2_SIZE 1024
+#endif
+#ifndef TIM_BR_REP
+#define TIM_BR_REP 32048
+#endif
+#ifndef TIM_BR_REP_SIZE
+#define TIM_BR_REP_SIZE 1024
+#endif
+#ifndef TIM_BR_JIN
+#define TIM_BR_JIN 33072
+#endif
+#ifndef TIM_BR_JIN_SIZE
+#define TIM_BR_JIN_SIZE 1024
+#endif
+#ifndef TIM_BR_JAC
+#define TIM_BR_JAC 34096
+#endif
+#ifndef TIM_BR_JAC_SIZE
+#define TIM_BR_JAC_SIZE 1024
+#endif
+#ifndef TIM_BR_HAZ
+#define TIM_BR_HAZ 35120
+#endif
+#ifndef TIM_BR_HAZ_SIZE
+#define TIM_BR_HAZ_SIZE 1184
+#endif
+#ifndef TIM_MCB_SEVE
+#define TIM_MCB_SEVE 36304
+#endif
+#ifndef TIM_MCB_SEVE_SIZE
+#define TIM_MCB_SEVE_SIZE 192
+#endif
+#ifndef TIM_MCB_FUKU
+#define TIM_MCB_FUKU 36496
+#endif
+#ifndef TIM_MCB_FUKU_SIZE
+#define TIM_MCB_FUKU_SIZE 192
+#endif
+#ifndef TIM_MCB_BINB
+#define TIM_MCB_BINB 36688
+#endif
+#ifndef TIM_MCB_BINB_SIZE
+#define TIM_MCB_BINB_SIZE 192
+#endif
+#ifndef TIM_MCB_YAMA
+#define TIM_MCB_YAMA 36880
+#endif
+#ifndef TIM_MCB_YAMA_SIZE
+#define TIM_MCB_YAMA_SIZE 192
+#endif
+#ifndef TIM_MCB_KODU
+#define TIM_MCB_KODU 37072
+#endif
+#ifndef TIM_MCB_KODU_SIZE
+#define TIM_MCB_KODU_SIZE 192
+#endif
+#ifndef TIM_MCB_CHER
+#define TIM_MCB_CHER 37264
+#endif
+#ifndef TIM_MCB_CHER_SIZE
+#define TIM_MCB_CHER_SIZE 192
+#endif
+#ifndef TIM_MCB_SUZU
+#define TIM_MCB_SUZU 37456
+#endif
+#ifndef TIM_MCB_SUZU_SIZE
+#define TIM_MCB_SUZU_SIZE 192
+#endif
+#ifndef TIM_MCK_SEVE
+#define TIM_MCK_SEVE 37648
+#endif
+#ifndef TIM_MCK_SEVE_SIZE
+#define TIM_MCK_SEVE_SIZE 192
+#endif
+#ifndef TIM_MCK_KAPP
+#define TIM_MCK_KAPP 37840
+#endif
+#ifndef TIM_MCK_KAPP_SIZE
+#define TIM_MCK_KAPP_SIZE 192
+#endif
+#ifndef TIM_MCK_COUP
+#define TIM_MCK_COUP 38032
+#endif
+#ifndef TIM_MCK_COUP_SIZE
+#define TIM_MCK_COUP_SIZE 192
+#endif
+#ifndef TIM_MCK_SAKE
+#define TIM_MCK_SAKE 38224
+#endif
+#ifndef TIM_MCK_SAKE_SIZE
+#define TIM_MCK_SAKE_SIZE 192
+#endif
+#ifndef TIM_MCK_KYUR
+#define TIM_MCK_KYUR 38416
+#endif
+#ifndef TIM_MCK_KYUR_SIZE
+#define TIM_MCK_KYUR_SIZE 192
+#endif
+#ifndef TIM_MCK_HYOU
+#define TIM_MCK_HYOU 38608
+#endif
+#ifndef TIM_MCK_HYOU_SIZE
+#define TIM_MCK_HYOU_SIZE 192
+#endif
+#ifndef TIM_MCK_MOON
+#define TIM_MCK_MOON 38800
+#endif
+#ifndef TIM_MCK_MOON_SIZE
+#define TIM_MCK_MOON_SIZE 192
+#endif
+#ifndef TIM_B24_SEVE
+#define TIM_B24_SEVE 38992
+#endif
+#ifndef TIM_B24_SEVE_SIZE
+#define TIM_B24_SEVE_SIZE 256
+#endif
+#ifndef TIM_B24_FUKU
+#define TIM_B24_FUKU 39248
+#endif
+#ifndef TIM_B24_FUKU_SIZE
+#define TIM_B24_FUKU_SIZE 256
+#endif
+#ifndef TIM_B24_BINB
+#define TIM_B24_BINB 39504
+#endif
+#ifndef TIM_B24_BINB_SIZE
+#define TIM_B24_BINB_SIZE 256
+#endif
+#ifndef TIM_B24_YAMA
+#define TIM_B24_YAMA 39760
+#endif
+#ifndef TIM_B24_YAMA_SIZE
+#define TIM_B24_YAMA_SIZE 256
+#endif
+#ifndef TIM_B24_KODU
+#define TIM_B24_KODU 40016
+#endif
+#ifndef TIM_B24_KODU_SIZE
+#define TIM_B24_KODU_SIZE 256
+#endif
+#ifndef TIM_B24_CHER
+#define TIM_B24_CHER 40272
+#endif
+#ifndef TIM_B24_CHER_SIZE
+#define TIM_B24_CHER_SIZE 256
+#endif
+#ifndef TIM_B24_SUZU
+#define TIM_B24_SUZU 40528
+#endif
+#ifndef TIM_B24_SUZU_SIZE
+#define TIM_B24_SUZU_SIZE 256
+#endif
+#ifndef TIM_K24_SEVE
+#define TIM_K24_SEVE 40784
+#endif
+#ifndef TIM_K24_SEVE_SIZE
+#define TIM_K24_SEVE_SIZE 256
+#endif
+#ifndef TIM_K24_KAPP
+#define TIM_K24_KAPP 41040
+#endif
+#ifndef TIM_K24_KAPP_SIZE
+#define TIM_K24_KAPP_SIZE 256
+#endif
+#ifndef TIM_K24_COUP
+#define TIM_K24_COUP 41296
+#endif
+#ifndef TIM_K24_COUP_SIZE
+#define TIM_K24_COUP_SIZE 256
+#endif
+#ifndef TIM_K24_SAKE
+#define TIM_K24_SAKE 41552
+#endif
+#ifndef TIM_K24_SAKE_SIZE
+#define TIM_K24_SAKE_SIZE 256
+#endif
+#ifndef TIM_K24_KYUR
+#define TIM_K24_KYUR 41808
+#endif
+#ifndef TIM_K24_KYUR_SIZE
+#define TIM_K24_KYUR_SIZE 256
+#endif
+#ifndef TIM_K24_HYOU
+#define TIM_K24_HYOU 42064
+#endif
+#ifndef TIM_K24_HYOU_SIZE
+#define TIM_K24_HYOU_SIZE 256
+#endif
+#ifndef TIM_K24_MOON
+#define TIM_K24_MOON 42320
+#endif
+#ifndef TIM_K24_MOON_SIZE
+#define TIM_K24_MOON_SIZE 256
+#endif
+#ifndef TIM_W3NUM
+#define TIM_W3NUM 42576
+#endif
+#ifndef TIM_W3NUM_SIZE
+#define TIM_W3NUM_SIZE 272
+#endif
+#ifndef TIM_MR_YAJI
+#define TIM_MR_YAJI 42848
+#endif
+#ifndef TIM_MR_YAJI_SIZE
+#define TIM_MR_YAJI_SIZE 256
+#endif
+#ifndef TIM_YAJILR
+#define TIM_YAJILR 43104
+#endif
+#ifndef TIM_YAJILR_SIZE
+#define TIM_YAJILR_SIZE 448
+#endif
+#ifndef TIM_BOTAN
+#define TIM_BOTAN 43552
+#endif
+#ifndef TIM_BOTAN_SIZE
+#define TIM_BOTAN_SIZE 800
+#endif
+#ifndef TIM_B_LU
+#define TIM_B_LU 44352
+#endif
+#ifndef TIM_B_LU_SIZE
+#define TIM_B_LU_SIZE 192
+#endif
+#ifndef TIM_B_LR
+#define TIM_B_LR 44544
+#endif
+#ifndef TIM_B_LR_SIZE
+#define TIM_B_LR_SIZE 192
+#endif
+#ifndef TIM_B_LD
+#define TIM_B_LD 44736
+#endif
+#ifndef TIM_B_LD_SIZE
+#define TIM_B_LD_SIZE 192
+#endif
+#ifndef TIM_B_LL
+#define TIM_B_LL 44928
+#endif
+#ifndef TIM_B_LL_SIZE
+#define TIM_B_LL_SIZE 192
+#endif
+#ifndef TIM_B_LUD
+#define TIM_B_LUD 45120
+#endif
+#ifndef TIM_B_LUD_SIZE
+#define TIM_B_LUD_SIZE 192
+#endif
+#ifndef TIM_B_LLR
+#define TIM_B_LLR 45312
+#endif
+#ifndef TIM_B_LLR_SIZE
+#define TIM_B_LLR_SIZE 192
+#endif
+#ifndef TIM_B_RU
+#define TIM_B_RU 45504
+#endif
+#ifndef TIM_B_RU_SIZE
+#define TIM_B_RU_SIZE 192
+#endif
+#ifndef TIM_B_RR
+#define TIM_B_RR 45696
+#endif
+#ifndef TIM_B_RR_SIZE
+#define TIM_B_RR_SIZE 192
+#endif
+#ifndef TIM_B_RD
+#define TIM_B_RD 45888
+#endif
+#ifndef TIM_B_RD_SIZE
+#define TIM_B_RD_SIZE 192
+#endif
+#ifndef TIM_B_RL
+#define TIM_B_RL 46080
+#endif
+#ifndef TIM_B_RL_SIZE
+#define TIM_B_RL_SIZE 192
+#endif
+#ifndef TIM_B_L2
+#define TIM_B_L2 46272
+#endif
+#ifndef TIM_B_L2_SIZE
+#define TIM_B_L2_SIZE 192
+#endif
+#ifndef TIM_B_L1
+#define TIM_B_L1 46464
+#endif
+#ifndef TIM_B_L1_SIZE
+#define TIM_B_L1_SIZE 192
+#endif
+#ifndef TIM_B_R2
+#define TIM_B_R2 46656
+#endif
+#ifndef TIM_B_R2_SIZE
+#define TIM_B_R2_SIZE 192
+#endif
+#ifndef TIM_B_R1
+#define TIM_B_R1 46848
+#endif
+#ifndef TIM_B_R1_SIZE
+#define TIM_B_R1_SIZE 192
+#endif
+#ifndef TIM_B_OR
+#define TIM_B_OR 47040
+#endif
+#ifndef TIM_B_OR_SIZE
+#define TIM_B_OR_SIZE 192
+#endif
+#ifndef TIM_B_PLUS
+#define TIM_B_PLUS 47232
+#endif
+#ifndef TIM_B_PLUS_SIZE
+#define TIM_B_PLUS_SIZE 192
+#endif
+#ifndef TIM_MOJI19
+#define TIM_MOJI19 47424
+#endif
+#ifndef TIM_MOJI19_SIZE
+#define TIM_MOJI19_SIZE 1184
+#endif
+#ifndef TIM_TU-KA_K
+#define TIM_TU-KA_K 48608
+#endif
+#ifndef TIM_TU-KA_K_SIZE
+#define TIM_TU-KA_K_SIZE 576
+#endif
+#ifndef TIM_YAJI_T
+#define TIM_YAJI_T 49184
+#endif
+#ifndef TIM_YAJI_T_SIZE
+#define TIM_YAJI_T_SIZE 192
+#endif
+#ifndef TOTAL_SUBM_TIC
+#define TOTAL_SUBM_TIC 49408
+#endif

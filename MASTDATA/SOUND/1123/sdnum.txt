@@ -1,0 +1,104 @@
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+    PS PACHISLO Sound Effect リスト    by MUSIC WORX
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+binbin_se.vab ====================================
+
+・メダル投入音
+    Prog:0, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リールスタート音
+    Prog:1, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・ウエイト音
+    Prog:2, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リール停止受付音
+    Prog:3, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リール停止音
+    Prog:4, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・メダル払い出し音
+    Prog:5, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リプレイ音
+    Prog:6, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リーチ音
+    Prog:7, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+kappa_se.vab =====================================
+
+・メダル投入音
+    Prog:0, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リールスタート音
+    Prog:1, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・ウエイト音
+    Prog:2, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リール停止受付音
+    Prog:3, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リール停止音
+    Prog:4, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・メダル払い出し音
+    Prog:5, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リプレイ音
+    Prog:6, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・リーチ音
+    Prog:7, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+se.vab ===========================================
+
+・カーソル移動音
+    Prog:0, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・カーソル移動音（はで）
+    Prog:1, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・決定音
+    Prog:2, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・ポイントUP音
+    Prog:3, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・キャンセル音
+    Prog:4, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・サブメニュー音
+    Prog:5, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・インフォメーション表示音
+    Prog:6, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・残念メッセージ表示音
+    Prog:7, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・払い出しメダルの生音
+    Prog:8, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・結果発表ジングル
+    Prog:9, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+・実機エラー音（ループ）
+    Prog:10, Tone:0, Note:60, Fine:0, Voll:127, Volr:127
+
+
+
+
+値はすべて10進数です。
+Prog, Tone 以外の各値は標準値です。調整してもらって構いません。
+
+    ・Note, Fine は音程調節です。（Note は祖調整（0～127）、Fine は微調整）
+    ・Voll はステレオ時、左スピーカーへの再生音量（0～127）。
+    ・Volr はステレオ時、右スピーカーへの再生音量（0～127）。
+    （Vol* はモノラルにする場合、左右同じ音量で設定して下さい）
+
+
+以上

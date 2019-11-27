@@ -1,0 +1,26 @@
+call timed KPM01.TIM 480 0 320 485
+call timed KPM02.TIM 512 0 320 486
+call timed KPM03.TIM 544 0 320 487
+call timed KPM04.TIM 576 0 320 488
+call timed KPM05.TIM 608 0 320 489
+
+call timed KPM06.TIM 480 64 320 490
+call timed KPM07.TIM 512 64 320 491
+call timed KPM08.TIM 544 64 320 492
+call timed KPM09.TIM 576 64 320 493
+call timed KPM10.TIM 608 64 320 494
+
+call timed KPM11.TIM 480 128 320 495
+call timed KPM12.TIM 512 128 320 496
+call timed KPM13.TIM 544 128 320 497
+call timed KPM14.TIM 576 128 320 498
+call timed KPM15.TIM 608 128 320 499
+
+call timed KPM16.TIM 480 192 320 500
+call timed KPM17.TIM 512 192 320 501
+call timed KPM18.TIM 544 192 320 502
+call timed KPM19.TIM 576 192 320 503
+call timed KPM20.TIM 608 192 320 504
+
+copy *.TIM ..\all
+

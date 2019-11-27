@@ -1,0 +1,122 @@
+del *.pxl
+del *.clt
+
+call timed KPM_COL1.TIM 850 306 576 501
+call timed KPM_COL2.TIM 850 306 576 501
+call timed KPM_COL3.TIM 850 306 576 501
+
+call timed KPM_COR0.TIM 860 306 576 501
+call timed KPM_COR1.TIM 860 306 576 501
+call timed KPM_COR2.TIM 860 306 576 501
+call timed KPM_COR3.TIM 860 306 576 501
+call timed KPM_COR4.TIM 860 306 576 501
+call timed KPM_COR5.TIM 860 306 576 501
+call timed KPM_COR6.TIM 860 306 576 501
+call timed KPM_COR7.TIM 860 306 576 501
+call timed KPM_COR8.TIM 860 306 576 501
+call timed KPM_COR9.TIM 860 306 576 501
+
+call timed KPM_CRL0.TIM 860 290 576 502
+call timed KPM_CRL1.TIM 860 290 576 502
+call timed KPM_CRL2.TIM 860 290 576 502
+call timed KPM_CRL3.TIM 860 290 576 502
+call timed KPM_CRL4.TIM 860 290 576 502
+call timed KPM_CRL5.TIM 860 290 576 502
+
+call timed KPM_CRR0.TIM 850 290 576 502
+call timed KPM_CRR1.TIM 850 290 576 502
+call timed KPM_CRR2.TIM 850 290 576 502
+call timed KPM_CRR3.TIM 850 290 576 502
+call timed KPM_CRR4.TIM 850 290 576 502
+call timed KPM_CRR5.TIM 850 290 576 502
+call timed KPM_CRR6.TIM 850 290 576 502
+call timed KPM_CRR7.TIM 850 290 576 502
+call timed KPM_CRR8.TIM 850 290 576 502
+call timed KPM_CRR9.TIM 850 290 576 502
+
+call timed KPM_GME1.TIM 870 296 576 501
+call timed KPM_GME2.TIM 870 296 576 501
+call timed KPM_GME3.TIM 870 296 576 501
+call timed KPM_GME4.TIM 870 296 576 501
+call timed KPM_GME5.TIM 870 296 576 501
+call timed KPM_GME6.TIM 870 296 576 501
+call timed KPM_GMEB.TIM 870 296 576 501
+
+call timed KPM_WI00.TIM 870 256 576 502
+call timed KPM_WI01.TIM 870 256 576 502
+call timed KPM_WI02.TIM 870 256 576 502
+call timed KPM_WI03.TIM 870 256 576 502
+call timed KPM_WI04.TIM 870 256 576 502
+call timed KPM_WI05.TIM 870 256 576 502
+call timed KPM_WI06.TIM 870 256 576 502
+call timed KPM_WI07.TIM 870 256 576 502
+call timed KPM_WI08.TIM 870 256 576 502
+call timed KPM_WI09.TIM 870 256 576 502
+call timed KPM_WI10.TIM 870 256 576 502
+call timed KPM_WI11.TIM 870 256 576 502
+call timed KPM_WI12.TIM 870 256 576 502
+call timed KPM_WI13.TIM 870 256 576 502
+call timed KPM_WI14.TIM 870 256 576 502
+call timed KPM_WI15.TIM 870 256 576 502
+call timed KPM_WI0P.TIM 882 256 576 502
+
+
+call clc KPM_COL1.TIM
+call clc KPM_COL2.TIM
+call clc KPM_COL3.TIM
+call clc KPM_COR0.TIM
+call clc KPM_COR1.TIM
+call clc KPM_COR2.TIM
+call clc KPM_COR3.TIM
+call clc KPM_COR4.TIM
+call clc KPM_COR5.TIM
+call clc KPM_COR6.TIM
+call clc KPM_COR7.TIM
+call clc KPM_COR8.TIM
+call clc KPM_COR9.TIM
+call clc KPM_CRL0.TIM
+call clc KPM_CRL1.TIM
+call clc KPM_CRL2.TIM
+call clc KPM_CRL3.TIM
+call clc KPM_CRL4.TIM
+call clc KPM_CRL5.TIM
+call clc KPM_CRR0.TIM
+call clc KPM_CRR1.TIM
+call clc KPM_CRR2.TIM
+call clc KPM_CRR3.TIM
+call clc KPM_CRR4.TIM
+call clc KPM_CRR5.TIM
+call clc KPM_CRR6.TIM
+call clc KPM_CRR7.TIM
+call clc KPM_CRR8.TIM
+call clc KPM_CRR9.TIM
+call clc KPM_GME1.TIM
+call clc KPM_GME2.TIM
+call clc KPM_GME3.TIM
+call clc KPM_GME4.TIM
+call clc KPM_GME5.TIM
+call clc KPM_GME6.TIM
+call clc KPM_GMEB.TIM
+call clc KPM_WI00.TIM
+call clc KPM_WI01.TIM
+call clc KPM_WI02.TIM
+call clc KPM_WI03.TIM
+call clc KPM_WI04.TIM
+call clc KPM_WI05.TIM
+call clc KPM_WI06.TIM
+call clc KPM_WI07.TIM
+call clc KPM_WI08.TIM
+call clc KPM_WI09.TIM
+call clc KPM_WI10.TIM
+call clc KPM_WI11.TIM
+call clc KPM_WI12.TIM
+call clc KPM_WI13.TIM
+call clc KPM_WI14.TIM
+call clc KPM_WI15.TIM
+call clc KPM_WI0P.TIM
+
+copy *.pxl ..\pac
+copy KPM_COL1.CLT ..\..\all
+copy KPM_CRL0.CLT ..\..\all
+copy KPM_WI0P.PXL ..\..\all
+

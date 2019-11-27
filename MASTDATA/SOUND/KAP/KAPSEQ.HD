@@ -1,0 +1,33 @@
+#ifndef SEQ_KAPAPA1
+#define SEQ_KAPAPA1 0
+#endif
+#ifndef SEQ_KAPAPA1_SIZE
+#define SEQ_KAPAPA1_SIZE 1420
+#endif
+#ifndef SEQ_KAPAPA2
+#define SEQ_KAPAPA2 1420
+#endif
+#ifndef SEQ_KAPAPA2_SIZE
+#define SEQ_KAPAPA2_SIZE 1084
+#endif
+#ifndef SEQ_KAPAPA3
+#define SEQ_KAPAPA3 2504
+#endif
+#ifndef SEQ_KAPAPA3_SIZE
+#define SEQ_KAPAPA3_SIZE 2600
+#endif
+#ifndef SEQ_KAPAPA4
+#define SEQ_KAPAPA4 5104
+#endif
+#ifndef SEQ_KAPAPA4_SIZE
+#define SEQ_KAPAPA4_SIZE 4772
+#endif
+#ifndef SEQ_KAPAPA5
+#define SEQ_KAPAPA5 9876
+#endif
+#ifndef SEQ_KAPAPA5_SIZE
+#define SEQ_KAPAPA5_SIZE 980
+#endif
+#ifndef TOTAL_KAPSEQ_TIC
+#define TOTAL_KAPSEQ_TIC 10888
+#endif

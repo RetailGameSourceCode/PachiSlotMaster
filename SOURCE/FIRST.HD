@@ -1,0 +1,33 @@
+#ifndef BIN_TEXT
+#define BIN_TEXT 0
+#endif
+#ifndef BIN_TEXT_SIZE
+#define BIN_TEXT_SIZE 11788
+#endif
+#ifndef VB_SE
+#define VB_SE 11788
+#endif
+#ifndef VB_SE_SIZE
+#define VB_SE_SIZE 159408
+#endif
+#ifndef VH_SE
+#define VH_SE 171196
+#endif
+#ifndef VH_SE_SIZE
+#define VH_SE_SIZE 8224
+#endif
+#ifndef TIM_TEXT
+#define TIM_TEXT 179420
+#endif
+#ifndef TIM_TEXT_SIZE
+#define TIM_TEXT_SIZE 12704
+#endif
+#ifndef TIC_SUBM
+#define TIC_SUBM 192124
+#endif
+#ifndef TIC_SUBM_SIZE
+#define TIC_SUBM_SIZE 49408
+#endif
+#ifndef TOTAL_FIRST_TIC
+#define TOTAL_FIRST_TIC 241564
+#endif

@@ -1,0 +1,21 @@
+#ifndef VH_OPENING
+#define VH_OPENING 0
+#endif
+#ifndef VH_OPENING_SIZE
+#define VH_OPENING_SIZE 7712
+#endif
+#ifndef VB_OPENING
+#define VB_OPENING 7712
+#endif
+#ifndef VB_OPENING_SIZE
+#define VB_OPENING_SIZE 318288
+#endif
+#ifndef SEQ_OPENING
+#define SEQ_OPENING 326000
+#endif
+#ifndef SEQ_OPENING_SIZE
+#define SEQ_OPENING_SIZE 10924
+#endif
+#ifndef TOTAL_TIT_TIC
+#define TOTAL_TIT_TIC 336956
+#endif

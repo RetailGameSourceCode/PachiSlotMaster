@@ -1,0 +1,207 @@
+#ifndef TIM_KM
+#define TIM_KM 0
+#endif
+#ifndef TIM_KM_SIZE
+#define TIM_KM_SIZE 7712
+#endif
+#ifndef TIM_KP
+#define TIM_KP 7712
+#endif
+#ifndef TIM_KP_SIZE
+#define TIM_KP_SIZE 7712
+#endif
+#ifndef TIM_KM_D
+#define TIM_KM_D 15424
+#endif
+#ifndef TIM_KM_D_SIZE
+#define TIM_KM_D_SIZE 18848
+#endif
+#ifndef TIM_KP_D
+#define TIM_KP_D 34272
+#endif
+#ifndef TIM_KP_D_SIZE
+#define TIM_KP_D_SIZE 18848
+#endif
+#ifndef TIM_YAJI6
+#define TIM_YAJI6 53120
+#endif
+#ifndef TIM_YAJI6_SIZE
+#define TIM_YAJI6_SIZE 3136
+#endif
+#ifndef TIM_KMKP
+#define TIM_KMKP 56256
+#endif
+#ifndef TIM_KMKP_SIZE
+#define TIM_KMKP_SIZE 22944
+#endif
+#ifndef TIM_MOJI05
+#define TIM_MOJI05 79200
+#endif
+#ifndef TIM_MOJI05_SIZE
+#define TIM_MOJI05_SIZE 1984
+#endif
+#ifndef TIM_SESTR
+#define TIM_SESTR 81184
+#endif
+#ifndef TIM_SESTR_SIZE
+#define TIM_SESTR_SIZE 8288
+#endif
+#ifndef TIM_BGMSTR
+#define TIM_BGMSTR 89472
+#endif
+#ifndef TIM_BGMSTR_SIZE
+#define TIM_BGMSTR_SIZE 8256
+#endif
+#ifndef TIM_MOJI01
+#define TIM_MOJI01 97728
+#endif
+#ifndef TIM_MOJI01_SIZE
+#define TIM_MOJI01_SIZE 1056
+#endif
+#ifndef TIM_MOJI02
+#define TIM_MOJI02 98784
+#endif
+#ifndef TIM_MOJI02_SIZE
+#define TIM_MOJI02_SIZE 704
+#endif
+#ifndef TIM_MOJI04
+#define TIM_MOJI04 99488
+#endif
+#ifndef TIM_MOJI04_SIZE
+#define TIM_MOJI04_SIZE 5600
+#endif
+#ifndef TIM_MOJI06
+#define TIM_MOJI06 105088
+#endif
+#ifndef TIM_MOJI06_SIZE
+#define TIM_MOJI06_SIZE 2496
+#endif
+#ifndef TIM_MOJI08
+#define TIM_MOJI08 107584
+#endif
+#ifndef TIM_MOJI08_SIZE
+#define TIM_MOJI08_SIZE 2880
+#endif
+#ifndef TIM_MOJI_WU
+#define TIM_MOJI_WU 110464
+#endif
+#ifndef TIM_MOJI_WU_SIZE
+#define TIM_MOJI_WU_SIZE 3872
+#endif
+#ifndef TIM_W_ST
+#define TIM_W_ST 114336
+#endif
+#ifndef TIM_W_ST_SIZE
+#define TIM_W_ST_SIZE 352
+#endif
+#ifndef TIM_W_UE
+#define TIM_W_UE 114688
+#endif
+#ifndef TIM_W_UE_SIZE
+#define TIM_W_UE_SIZE 352
+#endif
+#ifndef TIM_YAJI_Y
+#define TIM_YAJI_Y 115040
+#endif
+#ifndef TIM_YAJI_Y_SIZE
+#define TIM_YAJI_Y_SIZE 192
+#endif
+#ifndef TIM_YUBI
+#define TIM_YUBI 115232
+#endif
+#ifndef TIM_YUBI_SIZE
+#define TIM_YUBI_SIZE 352
+#endif
+#ifndef TIM_MOJI03
+#define TIM_MOJI03 115584
+#endif
+#ifndef TIM_MOJI03_SIZE
+#define TIM_MOJI03_SIZE 7360
+#endif
+#ifndef TIM_YAJI_T
+#define TIM_YAJI_T 122944
+#endif
+#ifndef TIM_YAJI_T_SIZE
+#define TIM_YAJI_T_SIZE 192
+#endif
+#ifndef TIM_MOJI07
+#define TIM_MOJI07 123136
+#endif
+#ifndef TIM_MOJI07_SIZE
+#define TIM_MOJI07_SIZE 1088
+#endif
+#ifndef TIM_BOTAN
+#define TIM_BOTAN 124224
+#endif
+#ifndef TIM_BOTAN_SIZE
+#define TIM_BOTAN_SIZE 800
+#endif
+#ifndef TIM_KUMO01
+#define TIM_KUMO01 125024
+#endif
+#ifndef TIM_KUMO01_SIZE
+#define TIM_KUMO01_SIZE 2528
+#endif
+#ifndef TIM_KUMO02
+#define TIM_KUMO02 127552
+#endif
+#ifndef TIM_KUMO02_SIZE
+#define TIM_KUMO02_SIZE 7120
+#endif
+#ifndef TIM_KUMO03
+#define TIM_KUMO03 134672
+#endif
+#ifndef TIM_KUMO03_SIZE
+#define TIM_KUMO03_SIZE 2656
+#endif
+#ifndef TIM_KUMO04
+#define TIM_KUMO04 137328
+#endif
+#ifndef TIM_KUMO04_SIZE
+#define TIM_KUMO04_SIZE 2112
+#endif
+#ifndef TIM_KUMO05
+#define TIM_KUMO05 139440
+#endif
+#ifndef TIM_KUMO05_SIZE
+#define TIM_KUMO05_SIZE 2112
+#endif
+#ifndef TIM_MOJI09
+#define TIM_MOJI09 141552
+#endif
+#ifndef TIM_MOJI09_SIZE
+#define TIM_MOJI09_SIZE 5344
+#endif
+#ifndef TIM_TITLE
+#define TIM_TITLE 146896
+#endif
+#ifndef TIM_TITLE_SIZE
+#define TIM_TITLE_SIZE 41504
+#endif
+#ifndef TIM_PUSH
+#define TIM_PUSH 188400
+#endif
+#ifndef TIM_PUSH_SIZE
+#define TIM_PUSH_SIZE 2176
+#endif
+#ifndef TIM_TM
+#define TIM_TM 190576
+#endif
+#ifndef TIM_TM_SIZE
+#define TIM_TM_SIZE 1792
+#endif
+#ifndef TIM_MOJI16
+#define TIM_MOJI16 192368
+#endif
+#ifndef TIM_MOJI16_SIZE
+#define TIM_MOJI16_SIZE 1088
+#endif
+#ifndef TIM_MOJI18
+#define TIM_MOJI18 193456
+#endif
+#ifndef TIM_MOJI18_SIZE
+#define TIM_MOJI18_SIZE 2016
+#endif
+#ifndef TOTAL_SELS_TIC
+#define TOTAL_SELS_TIC 195504
+#endif

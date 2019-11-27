@@ -1,0 +1,627 @@
+#ifndef PXL_KPS_COL1
+#define PXL_KPS_COL1 0
+#endif
+#ifndef PXL_KPS_COL1_SIZE
+#define PXL_KPS_COL1_SIZE 524
+#endif
+#ifndef PXL_KPS_COL2
+#define PXL_KPS_COL2 524
+#endif
+#ifndef PXL_KPS_COL2_SIZE
+#define PXL_KPS_COL2_SIZE 524
+#endif
+#ifndef PXL_KPS_COL3
+#define PXL_KPS_COL3 1048
+#endif
+#ifndef PXL_KPS_COL3_SIZE
+#define PXL_KPS_COL3_SIZE 524
+#endif
+#ifndef PXL_KPS_COR0
+#define PXL_KPS_COR0 1572
+#endif
+#ifndef PXL_KPS_COR0_SIZE
+#define PXL_KPS_COR0_SIZE 524
+#endif
+#ifndef PXL_KPS_COR1
+#define PXL_KPS_COR1 2096
+#endif
+#ifndef PXL_KPS_COR1_SIZE
+#define PXL_KPS_COR1_SIZE 524
+#endif
+#ifndef PXL_KPS_COR2
+#define PXL_KPS_COR2 2620
+#endif
+#ifndef PXL_KPS_COR2_SIZE
+#define PXL_KPS_COR2_SIZE 524
+#endif
+#ifndef PXL_KPS_COR3
+#define PXL_KPS_COR3 3144
+#endif
+#ifndef PXL_KPS_COR3_SIZE
+#define PXL_KPS_COR3_SIZE 524
+#endif
+#ifndef PXL_KPS_COR4
+#define PXL_KPS_COR4 3668
+#endif
+#ifndef PXL_KPS_COR4_SIZE
+#define PXL_KPS_COR4_SIZE 524
+#endif
+#ifndef PXL_KPS_COR5
+#define PXL_KPS_COR5 4192
+#endif
+#ifndef PXL_KPS_COR5_SIZE
+#define PXL_KPS_COR5_SIZE 524
+#endif
+#ifndef PXL_KPS_COR6
+#define PXL_KPS_COR6 4716
+#endif
+#ifndef PXL_KPS_COR6_SIZE
+#define PXL_KPS_COR6_SIZE 524
+#endif
+#ifndef PXL_KPS_COR7
+#define PXL_KPS_COR7 5240
+#endif
+#ifndef PXL_KPS_COR7_SIZE
+#define PXL_KPS_COR7_SIZE 524
+#endif
+#ifndef PXL_KPS_COR8
+#define PXL_KPS_COR8 5764
+#endif
+#ifndef PXL_KPS_COR8_SIZE
+#define PXL_KPS_COR8_SIZE 524
+#endif
+#ifndef PXL_KPS_COR9
+#define PXL_KPS_COR9 6288
+#endif
+#ifndef PXL_KPS_COR9_SIZE
+#define PXL_KPS_COR9_SIZE 524
+#endif
+#ifndef PXL_KPS_CRL0
+#define PXL_KPS_CRL0 6812
+#endif
+#ifndef PXL_KPS_CRL0_SIZE
+#define PXL_KPS_CRL0_SIZE 496
+#endif
+#ifndef PXL_KPS_CRL1
+#define PXL_KPS_CRL1 7308
+#endif
+#ifndef PXL_KPS_CRL1_SIZE
+#define PXL_KPS_CRL1_SIZE 496
+#endif
+#ifndef PXL_KPS_CRL2
+#define PXL_KPS_CRL2 7804
+#endif
+#ifndef PXL_KPS_CRL2_SIZE
+#define PXL_KPS_CRL2_SIZE 496
+#endif
+#ifndef PXL_KPS_CRL3
+#define PXL_KPS_CRL3 8300
+#endif
+#ifndef PXL_KPS_CRL3_SIZE
+#define PXL_KPS_CRL3_SIZE 496
+#endif
+#ifndef PXL_KPS_CRL4
+#define PXL_KPS_CRL4 8796
+#endif
+#ifndef PXL_KPS_CRL4_SIZE
+#define PXL_KPS_CRL4_SIZE 496
+#endif
+#ifndef PXL_KPS_CRL5
+#define PXL_KPS_CRL5 9292
+#endif
+#ifndef PXL_KPS_CRL5_SIZE
+#define PXL_KPS_CRL5_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR0
+#define PXL_KPS_CRR0 9788
+#endif
+#ifndef PXL_KPS_CRR0_SIZE
+#define PXL_KPS_CRR0_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR1
+#define PXL_KPS_CRR1 10284
+#endif
+#ifndef PXL_KPS_CRR1_SIZE
+#define PXL_KPS_CRR1_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR2
+#define PXL_KPS_CRR2 10780
+#endif
+#ifndef PXL_KPS_CRR2_SIZE
+#define PXL_KPS_CRR2_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR3
+#define PXL_KPS_CRR3 11276
+#endif
+#ifndef PXL_KPS_CRR3_SIZE
+#define PXL_KPS_CRR3_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR4
+#define PXL_KPS_CRR4 11772
+#endif
+#ifndef PXL_KPS_CRR4_SIZE
+#define PXL_KPS_CRR4_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR5
+#define PXL_KPS_CRR5 12268
+#endif
+#ifndef PXL_KPS_CRR5_SIZE
+#define PXL_KPS_CRR5_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR6
+#define PXL_KPS_CRR6 12764
+#endif
+#ifndef PXL_KPS_CRR6_SIZE
+#define PXL_KPS_CRR6_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR7
+#define PXL_KPS_CRR7 13260
+#endif
+#ifndef PXL_KPS_CRR7_SIZE
+#define PXL_KPS_CRR7_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR8
+#define PXL_KPS_CRR8 13756
+#endif
+#ifndef PXL_KPS_CRR8_SIZE
+#define PXL_KPS_CRR8_SIZE 496
+#endif
+#ifndef PXL_KPS_CRR9
+#define PXL_KPS_CRR9 14252
+#endif
+#ifndef PXL_KPS_CRR9_SIZE
+#define PXL_KPS_CRR9_SIZE 496
+#endif
+#ifndef PXL_KPS_GME1
+#define PXL_KPS_GME1 14748
+#endif
+#ifndef PXL_KPS_GME1_SIZE
+#define PXL_KPS_GME1_SIZE 164
+#endif
+#ifndef PXL_KPS_GME2
+#define PXL_KPS_GME2 14912
+#endif
+#ifndef PXL_KPS_GME2_SIZE
+#define PXL_KPS_GME2_SIZE 164
+#endif
+#ifndef PXL_KPS_GME3
+#define PXL_KPS_GME3 15076
+#endif
+#ifndef PXL_KPS_GME3_SIZE
+#define PXL_KPS_GME3_SIZE 164
+#endif
+#ifndef PXL_KPS_GME4
+#define PXL_KPS_GME4 15240
+#endif
+#ifndef PXL_KPS_GME4_SIZE
+#define PXL_KPS_GME4_SIZE 164
+#endif
+#ifndef PXL_KPS_GME5
+#define PXL_KPS_GME5 15404
+#endif
+#ifndef PXL_KPS_GME5_SIZE
+#define PXL_KPS_GME5_SIZE 164
+#endif
+#ifndef PXL_KPS_GME6
+#define PXL_KPS_GME6 15568
+#endif
+#ifndef PXL_KPS_GME6_SIZE
+#define PXL_KPS_GME6_SIZE 164
+#endif
+#ifndef PXL_KPS_GMEB
+#define PXL_KPS_GMEB 15732
+#endif
+#ifndef PXL_KPS_GMEB_SIZE
+#define PXL_KPS_GMEB_SIZE 164
+#endif
+#ifndef PXL_KPS_WI00
+#define PXL_KPS_WI00 15896
+#endif
+#ifndef PXL_KPS_WI00_SIZE
+#define PXL_KPS_WI00_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI01
+#define PXL_KPS_WI01 17196
+#endif
+#ifndef PXL_KPS_WI01_SIZE
+#define PXL_KPS_WI01_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI02
+#define PXL_KPS_WI02 18496
+#endif
+#ifndef PXL_KPS_WI02_SIZE
+#define PXL_KPS_WI02_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI03
+#define PXL_KPS_WI03 19796
+#endif
+#ifndef PXL_KPS_WI03_SIZE
+#define PXL_KPS_WI03_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI04
+#define PXL_KPS_WI04 21096
+#endif
+#ifndef PXL_KPS_WI04_SIZE
+#define PXL_KPS_WI04_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI05
+#define PXL_KPS_WI05 22396
+#endif
+#ifndef PXL_KPS_WI05_SIZE
+#define PXL_KPS_WI05_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI06
+#define PXL_KPS_WI06 23696
+#endif
+#ifndef PXL_KPS_WI06_SIZE
+#define PXL_KPS_WI06_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI07
+#define PXL_KPS_WI07 24996
+#endif
+#ifndef PXL_KPS_WI07_SIZE
+#define PXL_KPS_WI07_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI08
+#define PXL_KPS_WI08 26296
+#endif
+#ifndef PXL_KPS_WI08_SIZE
+#define PXL_KPS_WI08_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI09
+#define PXL_KPS_WI09 27596
+#endif
+#ifndef PXL_KPS_WI09_SIZE
+#define PXL_KPS_WI09_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI10
+#define PXL_KPS_WI10 28896
+#endif
+#ifndef PXL_KPS_WI10_SIZE
+#define PXL_KPS_WI10_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI11
+#define PXL_KPS_WI11 30196
+#endif
+#ifndef PXL_KPS_WI11_SIZE
+#define PXL_KPS_WI11_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI12
+#define PXL_KPS_WI12 31496
+#endif
+#ifndef PXL_KPS_WI12_SIZE
+#define PXL_KPS_WI12_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI13
+#define PXL_KPS_WI13 32796
+#endif
+#ifndef PXL_KPS_WI13_SIZE
+#define PXL_KPS_WI13_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI14
+#define PXL_KPS_WI14 34096
+#endif
+#ifndef PXL_KPS_WI14_SIZE
+#define PXL_KPS_WI14_SIZE 1300
+#endif
+#ifndef PXL_KPS_WI15
+#define PXL_KPS_WI15 35396
+#endif
+#ifndef PXL_KPS_WI15_SIZE
+#define PXL_KPS_WI15_SIZE 1300
+#endif
+#ifndef PXL_KPM_COL1
+#define PXL_KPM_COL1 36696
+#endif
+#ifndef PXL_KPM_COL1_SIZE
+#define PXL_KPM_COL1_SIZE 340
+#endif
+#ifndef PXL_KPM_COL2
+#define PXL_KPM_COL2 37036
+#endif
+#ifndef PXL_KPM_COL2_SIZE
+#define PXL_KPM_COL2_SIZE 340
+#endif
+#ifndef PXL_KPM_COL3
+#define PXL_KPM_COL3 37376
+#endif
+#ifndef PXL_KPM_COL3_SIZE
+#define PXL_KPM_COL3_SIZE 340
+#endif
+#ifndef PXL_KPM_COR0
+#define PXL_KPM_COR0 37716
+#endif
+#ifndef PXL_KPM_COR0_SIZE
+#define PXL_KPM_COR0_SIZE 340
+#endif
+#ifndef PXL_KPM_COR1
+#define PXL_KPM_COR1 38056
+#endif
+#ifndef PXL_KPM_COR1_SIZE
+#define PXL_KPM_COR1_SIZE 340
+#endif
+#ifndef PXL_KPM_COR2
+#define PXL_KPM_COR2 38396
+#endif
+#ifndef PXL_KPM_COR2_SIZE
+#define PXL_KPM_COR2_SIZE 340
+#endif
+#ifndef PXL_KPM_COR3
+#define PXL_KPM_COR3 38736
+#endif
+#ifndef PXL_KPM_COR3_SIZE
+#define PXL_KPM_COR3_SIZE 340
+#endif
+#ifndef PXL_KPM_COR4
+#define PXL_KPM_COR4 39076
+#endif
+#ifndef PXL_KPM_COR4_SIZE
+#define PXL_KPM_COR4_SIZE 340
+#endif
+#ifndef PXL_KPM_COR5
+#define PXL_KPM_COR5 39416
+#endif
+#ifndef PXL_KPM_COR5_SIZE
+#define PXL_KPM_COR5_SIZE 340
+#endif
+#ifndef PXL_KPM_COR6
+#define PXL_KPM_COR6 39756
+#endif
+#ifndef PXL_KPM_COR6_SIZE
+#define PXL_KPM_COR6_SIZE 340
+#endif
+#ifndef PXL_KPM_COR7
+#define PXL_KPM_COR7 40096
+#endif
+#ifndef PXL_KPM_COR7_SIZE
+#define PXL_KPM_COR7_SIZE 340
+#endif
+#ifndef PXL_KPM_COR8
+#define PXL_KPM_COR8 40436
+#endif
+#ifndef PXL_KPM_COR8_SIZE
+#define PXL_KPM_COR8_SIZE 340
+#endif
+#ifndef PXL_KPM_COR9
+#define PXL_KPM_COR9 40776
+#endif
+#ifndef PXL_KPM_COR9_SIZE
+#define PXL_KPM_COR9_SIZE 340
+#endif
+#ifndef PXL_KPM_CRL0
+#define PXL_KPM_CRL0 41116
+#endif
+#ifndef PXL_KPM_CRL0_SIZE
+#define PXL_KPM_CRL0_SIZE 404
+#endif
+#ifndef PXL_KPM_CRL1
+#define PXL_KPM_CRL1 41520
+#endif
+#ifndef PXL_KPM_CRL1_SIZE
+#define PXL_KPM_CRL1_SIZE 404
+#endif
+#ifndef PXL_KPM_CRL2
+#define PXL_KPM_CRL2 41924
+#endif
+#ifndef PXL_KPM_CRL2_SIZE
+#define PXL_KPM_CRL2_SIZE 404
+#endif
+#ifndef PXL_KPM_CRL3
+#define PXL_KPM_CRL3 42328
+#endif
+#ifndef PXL_KPM_CRL3_SIZE
+#define PXL_KPM_CRL3_SIZE 404
+#endif
+#ifndef PXL_KPM_CRL4
+#define PXL_KPM_CRL4 42732
+#endif
+#ifndef PXL_KPM_CRL4_SIZE
+#define PXL_KPM_CRL4_SIZE 404
+#endif
+#ifndef PXL_KPM_CRL5
+#define PXL_KPM_CRL5 43136
+#endif
+#ifndef PXL_KPM_CRL5_SIZE
+#define PXL_KPM_CRL5_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR0
+#define PXL_KPM_CRR0 43540
+#endif
+#ifndef PXL_KPM_CRR0_SIZE
+#define PXL_KPM_CRR0_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR1
+#define PXL_KPM_CRR1 43944
+#endif
+#ifndef PXL_KPM_CRR1_SIZE
+#define PXL_KPM_CRR1_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR2
+#define PXL_KPM_CRR2 44348
+#endif
+#ifndef PXL_KPM_CRR2_SIZE
+#define PXL_KPM_CRR2_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR3
+#define PXL_KPM_CRR3 44752
+#endif
+#ifndef PXL_KPM_CRR3_SIZE
+#define PXL_KPM_CRR3_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR4
+#define PXL_KPM_CRR4 45156
+#endif
+#ifndef PXL_KPM_CRR4_SIZE
+#define PXL_KPM_CRR4_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR5
+#define PXL_KPM_CRR5 45560
+#endif
+#ifndef PXL_KPM_CRR5_SIZE
+#define PXL_KPM_CRR5_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR6
+#define PXL_KPM_CRR6 45964
+#endif
+#ifndef PXL_KPM_CRR6_SIZE
+#define PXL_KPM_CRR6_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR7
+#define PXL_KPM_CRR7 46368
+#endif
+#ifndef PXL_KPM_CRR7_SIZE
+#define PXL_KPM_CRR7_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR8
+#define PXL_KPM_CRR8 46772
+#endif
+#ifndef PXL_KPM_CRR8_SIZE
+#define PXL_KPM_CRR8_SIZE 404
+#endif
+#ifndef PXL_KPM_CRR9
+#define PXL_KPM_CRR9 47176
+#endif
+#ifndef PXL_KPM_CRR9_SIZE
+#define PXL_KPM_CRR9_SIZE 404
+#endif
+#ifndef PXL_KPM_GME1
+#define PXL_KPM_GME1 47580
+#endif
+#ifndef PXL_KPM_GME1_SIZE
+#define PXL_KPM_GME1_SIZE 180
+#endif
+#ifndef PXL_KPM_GME2
+#define PXL_KPM_GME2 47760
+#endif
+#ifndef PXL_KPM_GME2_SIZE
+#define PXL_KPM_GME2_SIZE 180
+#endif
+#ifndef PXL_KPM_GME3
+#define PXL_KPM_GME3 47940
+#endif
+#ifndef PXL_KPM_GME3_SIZE
+#define PXL_KPM_GME3_SIZE 180
+#endif
+#ifndef PXL_KPM_GME4
+#define PXL_KPM_GME4 48120
+#endif
+#ifndef PXL_KPM_GME4_SIZE
+#define PXL_KPM_GME4_SIZE 180
+#endif
+#ifndef PXL_KPM_GME5
+#define PXL_KPM_GME5 48300
+#endif
+#ifndef PXL_KPM_GME5_SIZE
+#define PXL_KPM_GME5_SIZE 180
+#endif
+#ifndef PXL_KPM_GME6
+#define PXL_KPM_GME6 48480
+#endif
+#ifndef PXL_KPM_GME6_SIZE
+#define PXL_KPM_GME6_SIZE 180
+#endif
+#ifndef PXL_KPM_GMEB
+#define PXL_KPM_GMEB 48660
+#endif
+#ifndef PXL_KPM_GMEB_SIZE
+#define PXL_KPM_GMEB_SIZE 180
+#endif
+#ifndef PXL_KPM_WI00
+#define PXL_KPM_WI00 48840
+#endif
+#ifndef PXL_KPM_WI00_SIZE
+#define PXL_KPM_WI00_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI01
+#define PXL_KPM_WI01 49868
+#endif
+#ifndef PXL_KPM_WI01_SIZE
+#define PXL_KPM_WI01_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI02
+#define PXL_KPM_WI02 50896
+#endif
+#ifndef PXL_KPM_WI02_SIZE
+#define PXL_KPM_WI02_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI03
+#define PXL_KPM_WI03 51924
+#endif
+#ifndef PXL_KPM_WI03_SIZE
+#define PXL_KPM_WI03_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI04
+#define PXL_KPM_WI04 52952
+#endif
+#ifndef PXL_KPM_WI04_SIZE
+#define PXL_KPM_WI04_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI05
+#define PXL_KPM_WI05 53980
+#endif
+#ifndef PXL_KPM_WI05_SIZE
+#define PXL_KPM_WI05_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI06
+#define PXL_KPM_WI06 55008
+#endif
+#ifndef PXL_KPM_WI06_SIZE
+#define PXL_KPM_WI06_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI07
+#define PXL_KPM_WI07 56036
+#endif
+#ifndef PXL_KPM_WI07_SIZE
+#define PXL_KPM_WI07_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI08
+#define PXL_KPM_WI08 57064
+#endif
+#ifndef PXL_KPM_WI08_SIZE
+#define PXL_KPM_WI08_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI09
+#define PXL_KPM_WI09 58092
+#endif
+#ifndef PXL_KPM_WI09_SIZE
+#define PXL_KPM_WI09_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI10
+#define PXL_KPM_WI10 59120
+#endif
+#ifndef PXL_KPM_WI10_SIZE
+#define PXL_KPM_WI10_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI11
+#define PXL_KPM_WI11 60148
+#endif
+#ifndef PXL_KPM_WI11_SIZE
+#define PXL_KPM_WI11_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI12
+#define PXL_KPM_WI12 61176
+#endif
+#ifndef PXL_KPM_WI12_SIZE
+#define PXL_KPM_WI12_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI13
+#define PXL_KPM_WI13 62204
+#endif
+#ifndef PXL_KPM_WI13_SIZE
+#define PXL_KPM_WI13_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI14
+#define PXL_KPM_WI14 63232
+#endif
+#ifndef PXL_KPM_WI14_SIZE
+#define PXL_KPM_WI14_SIZE 1028
+#endif
+#ifndef PXL_KPM_WI15
+#define PXL_KPM_WI15 64260
+#endif
+#ifndef PXL_KPM_WI15_SIZE
+#define PXL_KPM_WI15_SIZE 1028
+#endif
+#ifndef TOTAL_KAP_D_TIC
+#define TOTAL_KAP_D_TIC 65320
+#endif

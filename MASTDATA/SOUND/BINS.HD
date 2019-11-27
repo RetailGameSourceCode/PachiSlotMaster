@@ -1,0 +1,33 @@
+#ifndef VB_BIN_SE
+#define VB_BIN_SE 0
+#endif
+#ifndef VB_BIN_SE_SIZE
+#define VB_BIN_SE_SIZE 86192
+#endif
+#ifndef VB_BINBIN1
+#define VB_BINBIN1 86192
+#endif
+#ifndef VB_BINBIN1_SIZE
+#define VB_BINBIN1_SIZE 234720
+#endif
+#ifndef VH_BIN_SE
+#define VH_BIN_SE 320912
+#endif
+#ifndef VH_BIN_SE_SIZE
+#define VH_BIN_SE_SIZE 6688
+#endif
+#ifndef VH_BINBIN1
+#define VH_BINBIN1 327600
+#endif
+#ifndef VH_BINBIN1_SIZE
+#define VH_BINBIN1_SIZE 9248
+#endif
+#ifndef TIC_BINSEQ
+#define TIC_BINSEQ 336848
+#endif
+#ifndef TIC_BINSEQ_SIZE
+#define TIC_BINSEQ_SIZE 12596
+#endif
+#ifndef TOTAL_BINS_TIC
+#define TOTAL_BINS_TIC 349476
+#endif

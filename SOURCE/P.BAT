@@ -1,0 +1,6 @@
+cd c:\slot\mastdata\256base\kap\all
+call aa.bat
+REM ç≈å„ÇÕÇ±Ç±Ç…ñﬂÇ¡ÇƒÇ≠ÇÈ
+cd c:\slot\source
+
+
